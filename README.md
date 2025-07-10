@@ -1,7 +1,7 @@
 # notes 
 ## JVM
 [ClassFileFormat](JVM/ClassFileFormat.md)
-## JAVA
+## Java
 ## C
 ## CPP
 ## Python
