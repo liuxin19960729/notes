@@ -1,6 +1,6 @@
 # notes 
 ## JVM
-[doc](JVM/doc/index.md)
+[DOC](JVM/DOC/index.md)
 ## Java
 ## C
 ## CPP
