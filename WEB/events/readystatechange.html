@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        console.log("1:" + document.readyState)
+    </script>
+</head>
+
+<body>
+
+    <div class="controls">
+        <button id="reload" type="button">Reload</button>
+    </div>
+    <script>
+        console.log("2:" + document.readyState)
+    </script>
+    <div class="event-log">
+        <label>Event log:</label>
+        <textarea readonly class="event-log-contents" rows="8" cols="30"></textarea>
+    </div>
+    <script>
+        console.log("3:" + document.readyState)
+    </script>
+    <script>
+        /*
+        readystatechange:
+        当文档的 readyState 属性发生改变时，会触发 readystatechange 事件。
+        readyState:
+            loading 仍在加载
+            interactive 文档已被解析 但是诸如图像，样式表和框架之类的子资源仍在加载。
+            complete 文档和所有子资源已完成加载 note: load 事件即将触发
+        */
+        const log = document.querySelector(".event-log-contents");
+        const reload = document.querySelector("#reload");
+
+        reload.addEventListener("click", () => {
+            log.textContent = "";
+            window.setTimeout(() => {
+                window.location.reload(true);
+            }, 200);
+        });
+
+        window.addEventListener("load", (event) => {
+            console.log(`load:${document.readyState}`)
+        });
+
+        document.addEventListener("readystatechange", (event) => {
+            console.log(`readystatechange:${document.readyState}`)
+        });
+
+        
+        document.addEventListener("DOMContentLoaded", (event) => {
+            console.log(`DOMContentLoaded:${document.readyState}`)
+        });
+
+    </script>
+    <script>
+        console.log("4:" + document.readyState)
+    </script>
+</body>
+
+</html>
