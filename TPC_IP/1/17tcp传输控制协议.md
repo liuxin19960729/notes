@@ -30,6 +30,8 @@ TCP首部(20bytes)
 4byte:ack seq num
 4 bits 首部长度(最大F) 6bits 保留 URG ACK PSH RST FYN FIN 2byte 窗口大小
 2 byte check sum 2byte 紧急指针 
+选项字段 .....
+
 
 src port dst port 用于寻找发端和收端应用程序
 seq num 序号(4byte [0,0XFFFFFFFF])
@@ -68,15 +70,23 @@ FIN 发端完成发送任务
 7.窗口大小
 
 例如
-C-S
-seq num 342473578
-ack seq num 0
+    C-S
+    seq num 342473578
+    ack seq num 0
 
-B
-1000 4*8=32 byte   000000 保留    000010 SYN   
-32 byte头部长度
+    B
+    1000 4*8=32 byte   000000 保留    000010 SYN   
+    32 byte TCP 头部长度
+    FF FF (2byte)当前窗口 大小 65535 byte
 
+8. 2 byte checksum
+9. 2 byte 是否是紧急指针
+    note: URG 标志位设置未1
+    这个紧急指针才有效
+.... TCP data
 
-
+放在TCP 首部里面
+最长见的TCP可选字段
+MSS(Maximum Segement Size) 最长报文大小
 
 ```
