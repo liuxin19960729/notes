@@ -31,4 +31,39 @@ TCP首部(20bytes)
 4 bits 首部长度(最大F) 6bits 保留 URG ACK PSH RST FYN FIN 2byte 窗口大小
 2 byte check sum 2byte 紧急指针 
 
+src port dst port 用于寻找发端和收端应用程序
+seq num 序号(4byte [0,0XFFFFFFFF])
+    接收端更具序号排序数据避免乱序交给上层的应用
+ack seq num
+
+三次握手
+客户端 → 服务器 : SYN, Seq = 100
+服务器 → 客户端 : SYN+ACK, Seq = 500, Ack = 101
+客户端 → 服务器 : ACK, Seq = 101, Ack = 501
+
+ack seq num 规则 是 发送端  seq +1
+seq 表示对是当前发送自己的序列号
+
+接收端已经获取到了
+1.[1,1024] 返回 ack seq 1025
+2.[2049,3027] 接收端值接收到了 [1,1024] 并不能确认 [2049,3027] 所以只能你返回 ack seq 1025
+3.[1025,2048] 数据接收到了 checksum 验证错误数据丢弃 只能返回 ack seq 1025
+
+4 bits 首部长度(最大F)
+ unit=4byte(32bits)
+ 最大:15*unit=60
+ 最小TCP 长度5*4=20
+
+ TCP 头部长度[20,60]
+
+5. 6 bits 保留
+
+6. 6bits 
+URG 紧急指针
+ACK 确认序列好
+PSH 接收方尽快将报文段交给应用层
+RST
+FYN
+FIN
+
 ```
