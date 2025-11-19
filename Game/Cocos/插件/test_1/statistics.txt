@@ -1,0 +1,971 @@
+========================无引用信息=====================================
+idx:1 uuid:5c68ba7d-52f5-4635-a0cd-51049263b7d4   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\back_logo.png  
+idx:2 uuid:ec525b27-8ca0-4ee7-9180-079bc9570872   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bangdingyouli.png  
+idx:3 uuid:e3b10458-68c3-430f-b6a0-1dd8557da923   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdsj_bi_yy.png  
+idx:4 uuid:c7c79062-2fcc-47c5-9281-37ef7fff4784   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdyl_sj_yy1.png  
+idx:5 uuid:ec9184ec-f11e-406e-8d6c-f5f17e0e89a2   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdyl_sj_yy2.png  
+idx:6 uuid:c6f70ae7-3c37-4643-bd9a-bca19e9ee60c   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_dfw.png  
+idx:7 uuid:5050edf1-deac-491d-9d33-bebedfaef961   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_jyj.png  
+idx:8 uuid:8ddd4e4e-409d-46b9-8f26-b729d910e624   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\chongzhi_vip.png  
+idx:9 uuid:acd9b6fe-41b1-4666-baec-95ae667724a4   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\common.png  
+idx:10 uuid:75fd44dc-eee3-4aba-ba23-d7c6f6b46f3d   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\czkh_ac.png  
+idx:11 uuid:b5db1092-bd9e-4bd3-89b3-0bc6e0197223   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\Deposit.png  
+idx:12 uuid:efbbf374-d758-4275-a7f3-38ba556c0e3c   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_3.png  
+idx:13 uuid:1018bed5-adae-4df5-8814-75c03edc7ced   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_4.png  
+idx:14 uuid:26d0cf2c-8665-45ca-b65a-0dbbef913061   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_5.png  
+idx:15 uuid:c8784533-5295-4474-9c7e-8e74e1fc0ba9   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\GO-xyzp.png  
+idx:16 uuid:372c1c2c-cb5c-4e42-a1fc-54c724a60aba   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guaguale_2.png  
+idx:17 uuid:89acd77b-6463-453f-a424-05cd2d33babc   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guize_tc.png  
+idx:18 uuid:aaa6d5d4-e9b9-4ceb-a7f6-6caf60a5f82d   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guizheshuoming.png  
+idx:19 uuid:4bfe198c-130c-4094-a4c3-14400ceb638c   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\hdgz_bt.png  
+idx:20 uuid:706c3c6d-02a4-43d1-b15d-5158a2cd16e4   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\huodongzhongxin.png  
+idx:21 uuid:92d119f6-23ff-4b8b-ac92-41cd3c9eb5d3   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\zkyk_js.png  
+idx:22 uuid:b94400ab-5e76-4009-a517-405dafc107f8   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\jd_ycz.png  
+idx:23 uuid:7a28978f-c547-48d6-bf48-d087441e7fb4   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\lianxiwom.png  
+idx:24 uuid:6c47ee4b-3eec-4a05-936b-39649aeaf4d7   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\libaoma.png  
+idx:25 uuid:ce4cdebb-e660-40dc-bf15-28ec117bc701   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_flxq.png  
+idx:26 uuid:7055214c-b996-4486-8028-b7f3288d430d   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_jiangli.png  
+idx:27 uuid:433519d2-1254-4e0d-ba1f-c9d6a0ad7543   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_kf.png  
+idx:28 uuid:375642bc-ed0c-455c-88e1-de2a6838c47c   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\meijilu.png  
+idx:29 uuid:3120aca6-6bf0-4260-bc3c-44b5fc892c08   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\meiyoujain.png  
+idx:30 uuid:d62c7af2-d4d1-42c5-b5b1-d962c3e12f7c   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\mingrilingqu.png  
+idx:31 uuid:40381904-1565-45c8-9169-7c40209cff50   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\pddGuize.png  
+idx:32 uuid:2fb5cc5c-f8ff-4b57-880a-90c3f878130b   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\zkyk_js.png  
+idx:33 uuid:11b3c8b8-6379-4b7e-969a-887aa1106d9e   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\qiehuanyuyan2.png  
+idx:34 uuid:1287a25b-f0c0-4c64-9355-adea3dcf26f1   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\sale.png  
+idx:35 uuid:169baef4-8486-4cd1-87f5-a12340e32fd7   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\sc_czjl.png  
+idx:36 uuid:7c303227-13ea-4ac4-9485-3072ffbb8287   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\shengjivip.png  
+idx:37 uuid:58dc16e7-e3fc-4cc9-b05a-56126b5e9b84   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\spin1.png  
+idx:38 uuid:5137fdcf-d227-4c81-9fed-d6bf36be1ca8   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\spin2.png  
+idx:39 uuid:0ce50a51-bf5e-45ca-a85a-6f330629d3a5   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\thanks-pdd.png  
+idx:40 uuid:2016c6d8-9af4-47c5-a6f6-39c8bff6f1a3   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\tishi.png  
+idx:41 uuid:6fc33e81-f061-4546-9c95-7b878d472bc6   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\txqudao.png  
+idx:42 uuid:e4b9fcf6-88e0-42d8-86dc-ea7a1447ce58   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_bt.png  
+idx:43 uuid:9afa3740-a34b-4c4a-8ed2-b4c4fcdb7991   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_djlb.png  
+idx:44 uuid:369ed879-d2af-466d-8d67-f6b22199ed6f   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_mrfl.png  
+idx:45 uuid:21e542f6-6928-4a5e-ad84-b3737dde97e1   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_myfl.png  
+idx:46 uuid:ca3af321-6086-49fd-ade2-7ba9dec91c0b   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_mzfl.png  
+idx:47 uuid:ac15e7d6-6ca6-40df-9f87-5b549f55f0ef   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip-mrlb.png  
+idx:48 uuid:e64e253f-6def-4712-8ff2-56b2247d5196   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip-mylb.png  
+idx:49 uuid:d76cfbb5-78a2-4b07-877a-811300b271a9   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip-mzlb.png  
+idx:50 uuid:aaefaf40-6251-402d-bccc-af32f64fa0a9   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_dyy_mrjl.png  
+idx:51 uuid:7f118f64-2790-4375-a03a-e42ed84058b2   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_dyy_mzfl.png  
+idx:52 uuid:842fd9ce-6614-4d0c-a2a8-33bb21bd13ba   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\wuyaoqingjilu.png  
+idx:53 uuid:c9448d67-3962-4b93-adad-f598e17eb615   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\wz_vip.png  
+idx:54 uuid:07c5323e-d16c-4c97-b600-553f1ad0f286   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yueka_ac.png  
+idx:55 uuid:328b2e69-9cbd-4739-95b8-5161f981b4c4   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yueka.png  
+idx:56 uuid:1ed52956-0c69-415a-a6d6-1cbe81223df1   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zaiyici-ty.png  
+idx:57 uuid:4cac1ee2-55db-423c-9659-969c44a65dd0   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zanwuhuojiangjilu.png  
+idx:58 uuid:dfdd5ff8-168c-45bd-8cae-5db6ea9cc2eb   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zhongjiang.png  
+idx:59 uuid:7efa4b8d-41b4-4e8c-ac5f-d2e9973d0ea3   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zhouka_ac.png  
+idx:60 uuid:165a157b-5f42-4177-8096-d101cb62d31c   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\other\spin1.png  
+idx:61 uuid:2502b75d-0cf4-49de-928a-f8c2ab1b4ca9   path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\other\spin2.png  
+
+
+
+========================全部统计信息=====================================
+png uuid:9c99edc8-045c-45c2-a3bd-86de3d105a8b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\activitycenter.png dep count:2
+***** idx:1 prefab: uuid5f59e1d7-7fde-4667-b9cf-ed31700d8bd7 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5f59e1d7-7fde-4667-b9cf-ed31700d8bd7 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityView.prefab isI18nCmpt:true
+
+png uuid:1318a38a-d7de-40d4-941f-7bfaf4a6ff44 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\aq_tixian.png dep count:2
+***** idx:1 prefab: uuidd9732728-6f9f-4efe-b193-3de79b07c993 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityFWDailyRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidd9732728-6f9f-4efe-b193-3de79b07c993 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityFWDailyRewardView.prefab isI18nCmpt:true
+
+png uuid:86aced5a-c9d5-435d-8c91-009ddf6b1e13 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\aq_xianjin.png dep count:2
+***** idx:1 prefab: uuidd9732728-6f9f-4efe-b193-3de79b07c993 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityFWDailyRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidd9732728-6f9f-4efe-b193-3de79b07c993 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityFWDailyRewardView.prefab isI18nCmpt:true
+
+png uuid:5c68ba7d-52f5-4635-a0cd-51049263b7d4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\back_logo.png dep count:0
+
+png uuid:2ef06f92-d4a6-437c-9694-fbcb9bfb3e36 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bangding.png dep count:2
+***** idx:1 prefab: uuidf5b88026-8bbd-4279-9e01-fc4ebfdbbf15 path:D:\work\client-game\assets\project\resources\prefab\login\accountBindView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidf5b88026-8bbd-4279-9e01-fc4ebfdbbf15 path:D:\work\client-game\assets\project\resources\prefab\login\accountBindView.prefab isI18nCmpt:true
+
+png uuid:ec525b27-8ca0-4ee7-9180-079bc9570872 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bangdingyouli.png dep count:0
+
+png uuid:3bc71cee-4156-4971-8105-a8cbfe08d728 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bangdingzhanghao.png dep count:8
+***** idx:1 prefab: uuid4b2bbd9d-e58d-4751-aaf4-51b638f8cd94 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindBankAccountView_pak.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4b2bbd9d-e58d-4751-aaf4-51b638f8cd94 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindBankAccountView_pak.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid7d4cbd5a-6090-4a2f-994f-9b502081e56c path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindBankAccountView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid7d4cbd5a-6090-4a2f-994f-9b502081e56c path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindBankAccountView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid622a9232-4f93-4ca2-8af8-956597a16b59 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindBankView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid622a9232-4f93-4ca2-8af8-956597a16b59 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindBankView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid7d36e063-d206-4787-a16d-0d64fe150100 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindOtherAccountView.prefab isI18nCmpt:false
+***** idx:8 prefab: uuid7d36e063-d206-4787-a16d-0d64fe150100 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawBindOtherAccountView.prefab isI18nCmpt:true
+
+png uuid:f312765b-45ba-470c-a4f6-6b12e2c279a7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\baoji.png dep count:1
+***** idx:1 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:true
+
+png uuid:e3b10458-68c3-430f-b6a0-1dd8557da923 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdsj_bi_yy.png dep count:0
+
+png uuid:c7c79062-2fcc-47c5-9281-37ef7fff4784 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdyl_sj_yy1.png dep count:0
+
+png uuid:ec9184ec-f11e-406e-8d6c-f5f17e0e89a2 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdyl_sj_yy2.png dep count:0
+
+png uuid:65a74bd2-07fa-4384-a08c-52dc7a0babe3 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bdyl_yy.png dep count:1
+***** idx:1 prefab: uuid3522c2f6-5cbb-4073-aa41-fb8c4bf6822b path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityBindPhoneView.prefab isI18nCmpt:true
+
+png uuid:c6f70ae7-3c37-4643-bd9a-bca19e9ee60c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_dfw.png dep count:0
+
+png uuid:1e72b402-79d2-4c85-9131-a07eb03423c9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_dljl.png dep count:2
+***** idx:1 prefab: uuid7f45b85f-272d-4c4f-9f3e-f38c515dd7aa path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7f45b85f-272d-4c4f-9f3e-f38c515dd7aa path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentView.prefab isI18nCmpt:true
+
+png uuid:8a1c1557-9321-43f8-9de1-e4cbb6504785 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_hby_dakai.png dep count:4
+***** idx:1 prefab: uuida7b277e8-3cdb-452f-aef6-3a844da6c36d path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuida7b277e8-3cdb-452f-aef6-3a844da6c36d path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainInfoView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuida2c9b8dd-b965-4bb4-bbcc-f891eae9d4b2 path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainInfoViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuida2c9b8dd-b965-4bb4-bbcc-f891eae9d4b2 path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainInfoViewV.prefab isI18nCmpt:true
+
+png uuid:202be306-4a21-4db7-9e84-0df6f8e20c8e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_hby.png dep count:4
+***** idx:1 prefab: uuidac3c81a6-fb26-417b-97ed-550ca2ebde04 path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidac3c81a6-fb26-417b-97ed-550ca2ebde04 path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid103aeb6d-fa50-45db-8464-8f1b950583e2 path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainRewardViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid103aeb6d-fa50-45db-8464-8f1b950583e2 path:D:\work\client-game\assets\project\resources\prefab\lobby\redPackRain\redPackRainRewardViewV.prefab isI18nCmpt:true
+
+png uuid:5050edf1-deac-491d-9d33-bebedfaef961 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_jyj.png dep count:0
+
+png uuid:4490eb29-8a24-43fc-85c6-6bc8ee0af082 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_meirirenwu.png dep count:4
+***** idx:1 prefab: uuid88108736-4429-4e07-aeaf-d5c73558472c path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTasks\dailyTasksView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid88108736-4429-4e07-aeaf-d5c73558472c path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTasks\dailyTasksView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuida41f3d9d-6454-4295-a9ad-abfc5fe23842 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTasks\dailyTasksViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuida41f3d9d-6454-4295-a9ad-abfc5fe23842 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTasks\dailyTasksViewV.prefab isI18nCmpt:true
+
+png uuid:45e89568-77f5-4752-8b01-07e828ef8d3b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt_peisong.png dep count:2
+***** idx:1 prefab: uuidee64db79-1907-4972-8eeb-b75ddc4c7097 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\designatedDeliveryView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidee64db79-1907-4972-8eeb-b75ddc4c7097 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\designatedDeliveryView.prefab isI18nCmpt:true
+
+png uuid:3cd42aca-5beb-41e9-b017-a47b058c50cf path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\bt.png dep count:2
+***** idx:1 prefab: uuid9a0f0e13-21ae-4077-b919-25f07d616143 path:D:\work\client-game\assets\project\resources\prefab\lobby\sumSavings\sumSavings2View.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid9a0f0e13-21ae-4077-b919-25f07d616143 path:D:\work\client-game\assets\project\resources\prefab\lobby\sumSavings\sumSavings2View.prefab isI18nCmpt:true
+
+png uuid:59d580bf-91bf-4e5a-8175-35606804bcc2 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\card01.png dep count:3
+***** idx:1 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+
+png uuid:265ef4d5-aa44-42e2-90f1-44564be179be path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\card02.png dep count:4
+***** idx:1 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+***** idx:4 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+
+png uuid:223ad7be-6b4e-4341-83d5-9be456261123 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\chenggong.png dep count:4
+***** idx:1 prefab: uuid1b5325d4-ceca-49de-96cf-e73744d5bdde path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1b5325d4-ceca-49de-96cf-e73744d5bdde path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid62b42181-4185-49a9-ae58-cfe1941dcd90 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid62b42181-4185-49a9-ae58-cfe1941dcd90 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderViewV.prefab isI18nCmpt:true
+
+png uuid:8ddd4e4e-409d-46b9-8f26-b729d910e624 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\chongzhi_vip.png dep count:0
+
+png uuid:7eebe493-5fb2-4e05-853e-564cfb5f036e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\chongzhi.png dep count:1
+***** idx:1 prefab: uuidaaeb3698-1e7e-4e12-a0f4-ec92ba194c98 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopView2V.prefab isI18nCmpt:true
+
+png uuid:5ca17dcd-659b-4513-85b1-32e386f4a7a8 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\chongzhijilu.png dep count:4
+***** idx:1 prefab: uuid81df2ed1-275e-4d1c-b95d-e026c4f14682 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid81df2ed1-275e-4d1c-b95d-e026c4f14682 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid97af837e-fa3d-4291-b53b-dc2e676723c0 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid97af837e-fa3d-4291-b53b-dc2e676723c0 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordViewV.prefab isI18nCmpt:true
+
+png uuid:3f60c10a-ed05-4dab-af8b-6feec04e388c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\choujiang-pdd.png dep count:2
+***** idx:1 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:true
+
+png uuid:20fdf0e4-5102-4a77-a6c2-1b4d5e7f2192 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\chuangjiandingdan.png dep count:4
+***** idx:1 prefab: uuid1b5325d4-ceca-49de-96cf-e73744d5bdde path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1b5325d4-ceca-49de-96cf-e73744d5bdde path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid62b42181-4185-49a9-ae58-cfe1941dcd90 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid62b42181-4185-49a9-ae58-cfe1941dcd90 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopCreateOrderViewV.prefab isI18nCmpt:true
+
+png uuid:acd9b6fe-41b1-4666-baec-95ae667724a4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\common.png dep count:0
+
+png uuid:75fd44dc-eee3-4aba-ba23-d7c6f6b46f3d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\czkh_ac.png dep count:0
+
+png uuid:8fda1791-4551-4eb6-933c-c95c0a00a88a path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\czkh.png dep count:2
+***** idx:1 prefab: uuid356df9ff-61d8-42ff-ade5-e77a3598f77f path:D:\work\client-game\assets\project\resources\prefab\lobby\passcard\monthCardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid356df9ff-61d8-42ff-ade5-e77a3598f77f path:D:\work\client-game\assets\project\resources\prefab\lobby\passcard\monthCardView.prefab isI18nCmpt:true
+
+png uuid:68e5e2e5-f492-4304-b94b-ac0a0843b131 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\da_yy.png dep count:4
+***** idx:1 prefab: uuida6b79b9f-1860-4ca4-b255-26da2782195d path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\dailyTurnoverTargetView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuida6b79b9f-1860-4ca4-b255-26da2782195d path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\dailyTurnoverTargetView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid5527fb63-5a8b-498f-9cea-271372f4d84e path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\dailyTurnoverTargetViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid5527fb63-5a8b-498f-9cea-271372f4d84e path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\dailyTurnoverTargetViewV.prefab isI18nCmpt:true
+
+png uuid:b5db1092-bd9e-4bd3-89b3-0bc6e0197223 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\Deposit.png dep count:0
+
+png uuid:eb1d6349-903d-4ffa-b88e-37659d9ca6ba path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_1.png dep count:2
+***** idx:1 prefab: uuid6e8b2902-0873-4372-aa68-9c38ac03e9b7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentMyReweardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid6e8b2902-0873-4372-aa68-9c38ac03e9b7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentMyReweardView.prefab isI18nCmpt:true
+
+png uuid:8e5f076f-9feb-4b0a-a181-10e096c52245 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_2.png dep count:2
+***** idx:1 prefab: uuid5a443a44-4cc2-48bc-8210-82b939766ad7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentInviteRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5a443a44-4cc2-48bc-8210-82b939766ad7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentInviteRewardView.prefab isI18nCmpt:true
+
+png uuid:efbbf374-d758-4275-a7f3-38ba556c0e3c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_3.png dep count:0
+
+png uuid:1018bed5-adae-4df5-8814-75c03edc7ced path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_4.png dep count:0
+
+png uuid:26d0cf2c-8665-45ca-b65a-0dbbef913061 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_5.png dep count:0
+
+png uuid:107f3fa4-1ca5-43d9-b405-73933cd39e80 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_bt_6.png dep count:2
+***** idx:1 prefab: uuid5566ae84-ddd6-4563-94a3-6058342db2dc path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentTeamFightRebateView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5566ae84-ddd6-4563-94a3-6058342db2dc path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentTeamFightRebateView.prefab isI18nCmpt:true
+
+png uuid:dc280c75-4381-438c-9947-a529872b5c31 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_pdd_bt.png dep count:2
+***** idx:1 prefab: uuid7f45b85f-272d-4c4f-9f3e-f38c515dd7aa path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7f45b85f-272d-4c4f-9f3e-f38c515dd7aa path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentView.prefab isI18nCmpt:true
+
+png uuid:4e1121f7-4a0e-4cab-ba37-b94d9f8bceca path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dl_pdd_wz.png dep count:2
+***** idx:1 prefab: uuid7f45b85f-272d-4c4f-9f3e-f38c515dd7aa path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7f45b85f-272d-4c4f-9f3e-f38c515dd7aa path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentView.prefab isI18nCmpt:true
+
+png uuid:2f8eb36d-d9fd-4987-9bfc-cd70f6a0f658 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dljl.png dep count:1
+***** idx:1 prefab: uuid729f98d3-1210-4cc2-9ea1-af80b384fd32 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityAgentView.prefab isI18nCmpt:true
+
+png uuid:1c76dd60-43cf-4d0b-8c0e-4088e936e2e6 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\dljlwz.png dep count:2
+***** idx:1 prefab: uuid729f98d3-1210-4cc2-9ea1-af80b384fd32 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityAgentView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid729f98d3-1210-4cc2-9ea1-af80b384fd32 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityAgentView.prefab isI18nCmpt:true
+
+png uuid:94819052-6237-4581-a757-94d52ee25790 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\duihuanma.png dep count:4
+***** idx:1 prefab: uuid880b318d-831c-4968-8570-6f49ea513132 path:D:\work\client-game\assets\project\resources\prefab\lobby\giftcode\giftCodeView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid880b318d-831c-4968-8570-6f49ea513132 path:D:\work\client-game\assets\project\resources\prefab\lobby\giftcode\giftCodeView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54bda4ce-f9ac-4b05-a6d4-8ae6b2da5ba2 path:D:\work\client-game\assets\project\resources\prefab\lobby\giftcode\giftCodeViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54bda4ce-f9ac-4b05-a6d4-8ae6b2da5ba2 path:D:\work\client-game\assets\project\resources\prefab\lobby\giftcode\giftCodeViewV.prefab isI18nCmpt:true
+
+png uuid:cf2ea5d1-8918-4ea3-a6c6-e96f92767328 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\Email.png dep count:2
+***** idx:1 prefab: uuidc4fb21b5-5fa2-4898-b1f7-6a922683632c path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc4fb21b5-5fa2-4898-b1f7-6a922683632c path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailView.prefab isI18nCmpt:true
+
+png uuid:4ea50a21-a86b-4f38-8c3e-447925cc04ce path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\fenxiang-pdd.png dep count:2
+***** idx:1 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:true
+
+png uuid:03f9bc45-0626-47c2-bc90-106b9a85635f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\flzx_qieye_email_01.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:59d91cb8-4e5b-4e20-a4f9-1393b4e3dbc1 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\flzx_qieye_email_02.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:139dcc80-993c-4cf5-8941-8c94f6bc4a9c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\flzx_qieye_fulizhongxin_01.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:eb56334f-98f1-4678-9c9a-88aa22547d4f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\flzx_qieye_fulizhongxin_02.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:a526bbf1-25aa-4949-a8e0-785fd40a8107 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\flzx_qieye_liushuijilu_01.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:18cd5341-fdd1-4524-95ca-98e8aba30e42 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\flzx_qieye_touzhujilu_02.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:81dad035-0a04-4eb6-badc-2fd62fbaa4b7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\ftlq_bt.png dep count:4
+***** idx:1 prefab: uuidc4a95687-c695-48c2-b3a9-c40e83f89177 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\dailyReceiveRewardV2View.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc4a95687-c695-48c2-b3a9-c40e83f89177 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\dailyReceiveRewardV2View.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid681e5b51-4426-420a-953f-9263b8570412 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\dailyReceiveRewardView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid681e5b51-4426-420a-953f-9263b8570412 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\dailyReceiveRewardView.prefab isI18nCmpt:true
+
+png uuid:2c425dd5-f9a4-42bb-ada2-dd13bfb10851 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\fulizhongxin.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:99daa2b0-bb0c-4fec-a890-03db8722a85d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\genghuanqudao.png dep count:2
+***** idx:1 prefab: uuidd085b5fa-b322-403c-a790-e86a2625f7ff path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawChangeBankView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidd085b5fa-b322-403c-a790-e86a2625f7ff path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawChangeBankView.prefab isI18nCmpt:true
+
+png uuid:8ea6f304-2868-4f7d-9292-a013cbedb2e3 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\genghuantx.png dep count:2
+***** idx:1 prefab: uuid1a0d5a32-570a-4601-90ed-339fd3781c94 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerHeadView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1a0d5a32-570a-4601-90ed-339fd3781c94 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerHeadView.prefab isI18nCmpt:true
+
+png uuid:83be24c3-589d-454e-a709-734ea8f941a6 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\gerenxinxi.png dep count:2
+***** idx:1 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:true
+
+png uuid:c8784533-5295-4474-9c7e-8e74e1fc0ba9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\GO-xyzp.png dep count:0
+
+png uuid:ed8d9dfa-c04f-4e67-9411-326f40c479bd path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\gongxi.png dep count:16
+***** idx:1 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:4 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:6 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:8 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:9 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:10 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+***** idx:11 prefab: uuid7aa0e803-6341-4996-8908-67f4558b92d7 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRewardView.prefab isI18nCmpt:false
+***** idx:12 prefab: uuid7aa0e803-6341-4996-8908-67f4558b92d7 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRewardView.prefab isI18nCmpt:true
+***** idx:13 prefab: uuid679a106a-fe85-4299-96e4-cb3412f1dba6 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRewardViewV.prefab isI18nCmpt:false
+***** idx:14 prefab: uuid679a106a-fe85-4299-96e4-cb3412f1dba6 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRewardViewV.prefab isI18nCmpt:true
+***** idx:15 prefab: uuid24d4b289-c531-44a2-8917-3172e7d2ac2e path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireView.prefab isI18nCmpt:false
+***** idx:16 prefab: uuid24d4b289-c531-44a2-8917-3172e7d2ac2e path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireView.prefab isI18nCmpt:true
+
+png uuid:58a3ff57-f639-4988-a562-84da71484183 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\grxx_birthday.png dep count:2
+***** idx:1 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:true
+
+png uuid:372c1c2c-cb5c-4e42-a1fc-54c724a60aba path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guaguale_2.png dep count:0
+
+png uuid:6e3a29ab-dd98-4edb-9bb3-5d2da44bb084 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guaguale.png dep count:3
+***** idx:1 prefab: uuid1d167d7f-7c03-423e-bdd6-d78e0ae6b1fa path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityGGLView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1d167d7f-7c03-423e-bdd6-d78e0ae6b1fa path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityGGLView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+
+png uuid:89acd77b-6463-453f-a424-05cd2d33babc path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guize_tc.png dep count:0
+
+png uuid:fb8477b0-4aca-446d-a80f-e6b7b20751d5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guize.png dep count:40
+***** idx:1 prefab: uuid36fd26c0-4d5e-40ed-b68e-ed47adf64913 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityVipTipsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid36fd26c0-4d5e-40ed-b68e-ed47adf64913 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityVipTipsView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid39f6a185-3677-40d8-b4b5-9669f9ffe6a6 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\betRuleView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid39f6a185-3677-40d8-b4b5-9669f9ffe6a6 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\betRuleView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid0a1b7ea8-f8dc-4c8a-a556-eeffde4213d3 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\inviteRewardRuleView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid0a1b7ea8-f8dc-4c8a-a556-eeffde4213d3 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\inviteRewardRuleView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid90b63df1-09e9-44ae-bf08-83138dab8f74 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\irRuleView.prefab isI18nCmpt:false
+***** idx:8 prefab: uuid90b63df1-09e9-44ae-bf08-83138dab8f74 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\irRuleView.prefab isI18nCmpt:true
+***** idx:9 prefab: uuid845bed82-25b4-4340-9ab1-2737089d9532 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\lossRuleView.prefab isI18nCmpt:false
+***** idx:10 prefab: uuid845bed82-25b4-4340-9ab1-2737089d9532 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\lossRuleView.prefab isI18nCmpt:true
+***** idx:11 prefab: uuid8018c133-eae6-48db-b1fc-5ef6b303731e path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\myRewardRuleView.prefab isI18nCmpt:false
+***** idx:12 prefab: uuid8018c133-eae6-48db-b1fc-5ef6b303731e path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\myRewardRuleView.prefab isI18nCmpt:true
+***** idx:13 prefab: uuid940799a7-8354-4d14-97c8-d4879e05e2bf path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\rchRuleView.prefab isI18nCmpt:false
+***** idx:14 prefab: uuid940799a7-8354-4d14-97c8-d4879e05e2bf path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\rchRuleView.prefab isI18nCmpt:true
+***** idx:15 prefab: uuidc864826a-6e3f-4d96-9daf-2e73870952c8 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\tfRuleView.prefab isI18nCmpt:false
+***** idx:16 prefab: uuidc864826a-6e3f-4d96-9daf-2e73870952c8 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\tfRuleView.prefab isI18nCmpt:true
+***** idx:17 prefab: uuidb015ad08-89f1-48d7-b2cd-0f457995dd74 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\wdRuleView.prefab isI18nCmpt:false
+***** idx:18 prefab: uuidb015ad08-89f1-48d7-b2cd-0f457995dd74 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\wdRuleView.prefab isI18nCmpt:true
+***** idx:19 prefab: uuid98d0cf61-8355-4c38-99e1-903d32bb0571 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\ruleView.prefab isI18nCmpt:false
+***** idx:20 prefab: uuid98d0cf61-8355-4c38-99e1-903d32bb0571 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\ruleView.prefab isI18nCmpt:true
+***** idx:21 prefab: uuide4317967-d638-401a-9fd5-6e2d3a05684f path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\ruleViewV.prefab isI18nCmpt:false
+***** idx:22 prefab: uuide4317967-d638-401a-9fd5-6e2d3a05684f path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyTurnoverTarget\ruleViewV.prefab isI18nCmpt:true
+***** idx:23 prefab: uuid70a3646c-b49b-463b-adcb-fc5db7538858 path:D:\work\client-game\assets\project\resources\prefab\lobby\passcard\passCardRuleUIView.prefab isI18nCmpt:false
+***** idx:24 prefab: uuid70a3646c-b49b-463b-adcb-fc5db7538858 path:D:\work\client-game\assets\project\resources\prefab\lobby\passcard\passCardRuleUIView.prefab isI18nCmpt:true
+***** idx:25 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:false
+***** idx:26 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:true
+***** idx:27 prefab: uuid61e8f5bc-98c6-4eaf-a45e-3fe18e346bb6 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRulesView.prefab isI18nCmpt:false
+***** idx:28 prefab: uuid61e8f5bc-98c6-4eaf-a45e-3fe18e346bb6 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRulesView.prefab isI18nCmpt:true
+***** idx:29 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:false
+***** idx:30 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:true
+***** idx:31 prefab: uuid7d3b2619-f623-4ee8-abff-10c85b8ce445 path:D:\work\client-game\assets\project\resources\prefab\lobby\sumSavings\sumSavingsRulesView.prefab isI18nCmpt:false
+***** idx:32 prefab: uuid7d3b2619-f623-4ee8-abff-10c85b8ce445 path:D:\work\client-game\assets\project\resources\prefab\lobby\sumSavings\sumSavingsRulesView.prefab isI18nCmpt:true
+***** idx:33 prefab: uuidb82483c6-a807-4fa9-9657-4cc9aad0e099 path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\ruleView.prefab isI18nCmpt:false
+***** idx:34 prefab: uuidb82483c6-a807-4fa9-9657-4cc9aad0e099 path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\ruleView.prefab isI18nCmpt:true
+***** idx:35 prefab: uuid96495b48-d9ac-4c29-b96e-76f8efb79f65 path:D:\work\client-game\assets\project\resources\prefab\lobby\vipLottery\vipLotteryTipsView.prefab isI18nCmpt:false
+***** idx:36 prefab: uuid96495b48-d9ac-4c29-b96e-76f8efb79f65 path:D:\work\client-game\assets\project\resources\prefab\lobby\vipLottery\vipLotteryTipsView.prefab isI18nCmpt:true
+***** idx:37 prefab: uuidf6a242b3-15df-42b2-9940-99d005dcaa4d path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawView2.prefab isI18nCmpt:false
+***** idx:38 prefab: uuidf6a242b3-15df-42b2-9940-99d005dcaa4d path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawView2.prefab isI18nCmpt:true
+***** idx:39 prefab: uuidef3714be-3ca3-48f2-9726-d12dfec859ef path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireHelpView.prefab isI18nCmpt:false
+***** idx:40 prefab: uuidef3714be-3ca3-48f2-9726-d12dfec859ef path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireHelpView.prefab isI18nCmpt:true
+
+png uuid:aaa6d5d4-e9b9-4ceb-a7f6-6caf60a5f82d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\guizheshuoming.png dep count:0
+
+png uuid:009020de-99c4-4d7d-a4bf-770586cc4538 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\gzwm_jiaru.png dep count:2
+***** idx:1 prefab: uuiddf52d3c5-bbcb-45c7-bc75-8f3e8452cbb5 path:D:\work\client-game\assets\project\resources\prefab\lobby\focusUs\focusUsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuiddf52d3c5-bbcb-45c7-bc75-8f3e8452cbb5 path:D:\work\client-game\assets\project\resources\prefab\lobby\focusUs\focusUsView.prefab isI18nCmpt:true
+
+png uuid:210166ed-9115-490d-aa0c-9b30972dbaaf path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\gzwm_logo.png dep count:2
+***** idx:1 prefab: uuiddf52d3c5-bbcb-45c7-bc75-8f3e8452cbb5 path:D:\work\client-game\assets\project\resources\prefab\lobby\focusUs\focusUsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuiddf52d3c5-bbcb-45c7-bc75-8f3e8452cbb5 path:D:\work\client-game\assets\project\resources\prefab\lobby\focusUs\focusUsView.prefab isI18nCmpt:true
+
+png uuid:4bfe198c-130c-4094-a4c3-14400ceb638c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\hdgz_bt.png dep count:0
+
+png uuid:b469f8dd-1626-413a-ae42-b22235d95704 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\hj_tc_bt.png dep count:1
+***** idx:1 prefab: uuid660f8435-f9d9-4e1b-9f14-4ded163b793c path:D:\work\client-game\assets\9004\prefab\historyLayer9004.prefab isI18nCmpt:false
+
+png uuid:b921706f-a2c5-4ff3-bed4-b05663fbab56 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\huodebaojika.png dep count:2
+***** idx:1 prefab: uuid5f4f82e2-ba37-488e-b281-e812a85f38a0 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInSpecialCardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5f4f82e2-ba37-488e-b281-e812a85f38a0 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInSpecialCardView.prefab isI18nCmpt:true
+
+png uuid:6110efe9-5ea4-42d6-8233-77317ab77056 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\huodebuqianka.png dep count:2
+***** idx:1 prefab: uuid5dd4f30b-174d-4a3c-bea8-acd02c619b75 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInMakeUpCardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5dd4f30b-174d-4a3c-bea8-acd02c619b75 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInMakeUpCardView.prefab isI18nCmpt:true
+
+png uuid:706c3c6d-02a4-43d1-b15d-5158a2cd16e4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\huodongzhongxin.png dep count:0
+
+png uuid:18c0de93-406e-40e2-b92d-a4b56ff04007 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\apk_bg_03_icon.png dep count:1
+***** idx:1 prefab: uuid54fc43d5-88fe-4a47-b99d-e5192b42f8cd path:D:\work\client-game\assets\project\resources\prefab\lobby\addHome\addHomeView.prefab isI18nCmpt:true
+
+png uuid:5338bc60-2a6c-47d5-916b-2f4e5a665d69 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\apk_bg_icon.png dep count:1
+***** idx:1 prefab: uuid54fc43d5-88fe-4a47-b99d-e5192b42f8cd path:D:\work\client-game\assets\project\resources\prefab\lobby\addHome\addHomeView.prefab isI18nCmpt:true
+
+png uuid:b142b653-0aa1-4bca-8004-2b5be2ebb0b5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\apk_bg_wangzhi.png dep count:1
+***** idx:1 prefab: uuid54fc43d5-88fe-4a47-b99d-e5192b42f8cd path:D:\work\client-game\assets\project\resources\prefab\lobby\addHome\addHomeView.prefab isI18nCmpt:true
+
+png uuid:bcdcfc8b-b51c-41c6-ba02-4048d6417715 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\bg-xc2.png dep count:4
+***** idx:1 prefab: uuid9492906e-8c71-4cc0-b450-71e8c11e5316 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\tipView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid9492906e-8c71-4cc0-b450-71e8c11e5316 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\tipView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid94830f8f-e01c-441c-9611-7f0386eb36b1 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\tipViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid94830f8f-e01c-441c-9611-7f0386eb36b1 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\tipViewV.prefab isI18nCmpt:true
+
+png uuid:9734fe51-ef70-4584-aa3a-a35e598a5971 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\dljl_nl.png dep count:2
+***** idx:1 prefab: uuid729f98d3-1210-4cc2-9ea1-af80b384fd32 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityAgentView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid729f98d3-1210-4cc2-9ea1-af80b384fd32 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityAgentView.prefab isI18nCmpt:true
+
+png uuid:d1babc34-65e7-40b1-a65a-d378a39eb4d0 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\meiyoujian.png dep count:30
+***** idx:1 prefab: uuid0bdb3de4-77a5-49a6-a1b1-1818fe90ed5c path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentDirectlyPlayerView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid0bdb3de4-77a5-49a6-a1b1-1818fe90ed5c path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentDirectlyPlayerView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidc4fb21b5-5fa2-4898-b1f7-6a922683632c path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuidc4fb21b5-5fa2-4898-b1f7-6a922683632c path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid59f7b101-e004-418a-ba85-b421a810aaec path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelRewardView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid59f7b101-e004-418a-ba85-b421a810aaec path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelRewardView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:false
+***** idx:8 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:true
+***** idx:9 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:false
+***** idx:10 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:true
+***** idx:11 prefab: uuidec417a09-a57f-4660-9af5-4e569b514f5f path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRecodeView.prefab isI18nCmpt:false
+***** idx:12 prefab: uuidec417a09-a57f-4660-9af5-4e569b514f5f path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRecodeView.prefab isI18nCmpt:true
+***** idx:13 prefab: uuid81df2ed1-275e-4d1c-b95d-e026c4f14682 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordView.prefab isI18nCmpt:false
+***** idx:14 prefab: uuid81df2ed1-275e-4d1c-b95d-e026c4f14682 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordView.prefab isI18nCmpt:true
+***** idx:15 prefab: uuid97af837e-fa3d-4291-b53b-dc2e676723c0 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordViewV.prefab isI18nCmpt:false
+***** idx:16 prefab: uuid97af837e-fa3d-4291-b53b-dc2e676723c0 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordViewV.prefab isI18nCmpt:true
+***** idx:17 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:18 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:19 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:20 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:21 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:22 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+***** idx:23 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+***** idx:24 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+***** idx:25 prefab: uuid8256e6a6-96c9-4b66-b907-ab7b210be5c2 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawProgressView.prefab isI18nCmpt:false
+***** idx:26 prefab: uuid8256e6a6-96c9-4b66-b907-ab7b210be5c2 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawProgressView.prefab isI18nCmpt:true
+***** idx:27 prefab: uuid7f31c40e-7d11-4465-9c99-6e2669b4ba15 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawRecordView.prefab isI18nCmpt:false
+***** idx:28 prefab: uuid7f31c40e-7d11-4465-9c99-6e2669b4ba15 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawRecordView.prefab isI18nCmpt:true
+***** idx:29 prefab: uuid04c68d4b-375a-4d8b-86c0-c5acb1e2343b path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireRecordsView.prefab isI18nCmpt:false
+***** idx:30 prefab: uuid04c68d4b-375a-4d8b-86c0-c5acb1e2343b path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireRecordsView.prefab isI18nCmpt:true
+
+png uuid:e9e92602-0f38-472b-aa72-44fc8d7c5479 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\peisong_girl.png dep count:2
+***** idx:1 prefab: uuidee64db79-1907-4972-8eeb-b75ddc4c7097 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\designatedDeliveryView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidee64db79-1907-4972-8eeb-b75ddc4c7097 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\designatedDeliveryView.prefab isI18nCmpt:true
+
+png uuid:3f012b6d-3858-4dd7-a661-15d69fc9bfdf path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\scth_nl.png dep count:4
+***** idx:1 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:true
+
+png uuid:905e9aa4-a999-4683-8f0e-7acff71b6b29 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\vip_chongzhi_bg.png dep count:1
+***** idx:1 prefab: uuid94bbe9f6-a14f-4b35-9926-0ed0e43a5aa8 path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\notVipTip.prefab isI18nCmpt:true
+
+png uuid:6464ff50-cf9c-4634-aaf2-d34e370eeaae path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\yxgw_mishu.png dep count:8
+***** idx:1 prefab: uuidb0046708-1918-4981-ab7c-dbdf1172ca4b path:D:\work\client-game\assets\project\resources\prefab\lobby\accountProtect\accountProtectView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidb0046708-1918-4981-ab7c-dbdf1172ca4b path:D:\work\client-game\assets\project\resources\prefab\lobby\accountProtect\accountProtectView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid63d2e5e0-6415-4761-9c51-08e13846f03c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\registerRewardView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid63d2e5e0-6415-4761-9c51-08e13846f03c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\registerRewardView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid7a8aefa4-b569-449e-8d8f-6e1cfff22b43 path:D:\work\client-game\assets\project\resources\prefab\lobby\lobby\noGameTipView.prefab isI18nCmpt:false
+***** idx:8 prefab: uuid7a8aefa4-b569-449e-8d8f-6e1cfff22b43 path:D:\work\client-game\assets\project\resources\prefab\lobby\lobby\noGameTipView.prefab isI18nCmpt:true
+
+png uuid:082ef12c-752f-4316-96d2-c83d4540161f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\zjxs4.png dep count:2
+***** idx:1 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+
+png uuid:92d119f6-23ff-4b8b-ac92-41cd3c9eb5d3 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\idn\zkyk_js.png dep count:0
+
+png uuid:b94400ab-5e76-4009-a517-405dafc107f8 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\jd_ycz.png dep count:0
+
+png uuid:01201457-f84e-4ec8-9806-5d56b07255ed path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\jindu.png dep count:2
+***** idx:1 prefab: uuid05422ad6-cffc-43a9-a669-647dd35741f6 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddWithdrawView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid05422ad6-cffc-43a9-a669-647dd35741f6 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddWithdrawView.prefab isI18nCmpt:true
+
+png uuid:55e53ef6-7569-47b0-b552-1042cce88de5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\leijiqiandao.png dep count:2
+***** idx:1 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:true
+
+png uuid:7a28978f-c547-48d6-bf48-d087441e7fb4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\lianxiwom.png dep count:0
+
+png uuid:e305748c-31ed-4035-b868-6285735e9183 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\lianxuchongzhi.png dep count:2
+***** idx:1 prefab: uuidb04d2d07-6503-400d-80e9-3c68af3062d1 path:D:\work\client-game\assets\project\resources\prefab\lobby\contRecharge\contRechargeView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidb04d2d07-6503-400d-80e9-3c68af3062d1 path:D:\work\client-game\assets\project\resources\prefab\lobby\contRecharge\contRechargeView.prefab isI18nCmpt:true
+
+png uuid:6c47ee4b-3eec-4a05-936b-39649aeaf4d7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\libaoma.png dep count:0
+
+png uuid:3d232bdd-c41b-47b9-97c5-e62d1d1a1c7e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\lijiyq.png dep count:2
+***** idx:1 prefab: uuid6e1d88b6-9d00-48bf-9959-b44ba9581f69 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddQRCodeView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid6e1d88b6-9d00-48bf-9959-b44ba9581f69 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddQRCodeView.prefab isI18nCmpt:true
+
+png uuid:420bf9b0-764c-44db-a028-3b85b09d1abf path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\lingqujiangpin.png dep count:2
+***** idx:1 prefab: uuid26a5c7f5-72ea-4e57-9a66-c3e91daed210 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchAddressView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid26a5c7f5-72ea-4e57-9a66-c3e91daed210 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchAddressView.prefab isI18nCmpt:true
+
+png uuid:7727c669-6d0f-49a3-b5ad-e9ca59b9a2e4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\liushuijilu.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:ce4cdebb-e660-40dc-bf15-28ec117bc701 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_flxq.png dep count:0
+
+png uuid:d0bba1a7-c9c4-4026-ae41-2c3c7706d49d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_gzsm.png dep count:2
+***** idx:1 prefab: uuidad5699e4-d3b1-4855-9bd4-3fc5092d8844 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\signInView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidad5699e4-d3b1-4855-9bd4-3fc5092d8844 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\signInView.prefab isI18nCmpt:true
+
+png uuid:7055214c-b996-4486-8028-b7f3288d430d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_jiangli.png dep count:0
+
+png uuid:433519d2-1254-4e0d-ba1f-c9d6a0ad7543 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_kf.png dep count:0
+
+png uuid:9db74b1f-9027-4d77-96ba-7f80b66aa577 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_tips.png dep count:14
+***** idx:1 prefab: uuid7a9f0833-99fc-4283-b934-575135997a9f path:D:\work\client-game\assets\project\resources\prefab\common\alertView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7a9f0833-99fc-4283-b934-575135997a9f path:D:\work\client-game\assets\project\resources\prefab\common\alertView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid8f48077c-1737-4b7b-a679-1e7aa808aecf path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddShareView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid8f48077c-1737-4b7b-a679-1e7aa808aecf path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddShareView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid1d23d732-06bc-402c-901d-9e7e7adcdef8 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopTipsView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid1d23d732-06bc-402c-901d-9e7e7adcdef8 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopTipsView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid7e2785ed-2a0f-47e1-8745-154121835c42 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopTipsViewV.prefab isI18nCmpt:false
+***** idx:8 prefab: uuid7e2785ed-2a0f-47e1-8745-154121835c42 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopTipsViewV.prefab isI18nCmpt:true
+***** idx:9 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:false
+***** idx:10 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:true
+***** idx:11 prefab: uuid220172dd-8334-493e-8eb7-c533fe9b8346 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawNotEnoughView.prefab isI18nCmpt:false
+***** idx:12 prefab: uuid220172dd-8334-493e-8eb7-c533fe9b8346 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawNotEnoughView.prefab isI18nCmpt:true
+***** idx:13 prefab: uuiddc77d037-94d8-4969-a7b9-32666c6cc9dd path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawTipsView.prefab isI18nCmpt:false
+***** idx:14 prefab: uuiddc77d037-94d8-4969-a7b9-32666c6cc9dd path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawTipsView.prefab isI18nCmpt:true
+
+png uuid:e4d27958-1f7a-4e80-bf2f-d3ef568d7c4e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_tjsj.png dep count:2
+***** idx:1 prefab: uuidf5b2303a-b334-4465-b165-d9466e7d3c07 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentBindParentView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidf5b2303a-b334-4465-b165-d9466e7d3c07 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentBindParentView.prefab isI18nCmpt:true
+
+png uuid:77caffe1-4809-4e89-aeef-56a1003dd729 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_wjmm.png dep count:2
+***** idx:1 prefab: uuide9d4266b-47fb-4bca-bcf8-0a90b91613f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerPasswdView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuide9d4266b-47fb-4bca-bcf8-0a90b91613f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerPasswdView.prefab isI18nCmpt:true
+
+png uuid:187b26dd-eaa5-4f89-83be-b1491a8c54e9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_wsgg.png dep count:2
+***** idx:1 prefab: uuid2ac42f78-f441-473f-ac3b-9743659e8073 path:D:\work\client-game\assets\project\resources\prefab\login\maintenanceView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid2ac42f78-f441-473f-ac3b-9743659e8073 path:D:\work\client-game\assets\project\resources\prefab\login\maintenanceView.prefab isI18nCmpt:true
+
+png uuid:b4836988-34b8-45b9-918d-0224905ccc97 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_xxsj.png dep count:14
+***** idx:1 prefab: uuid5a443a44-4cc2-48bc-8210-82b939766ad7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentInviteRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5a443a44-4cc2-48bc-8210-82b939766ad7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentInviteRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid5566ae84-ddd6-4563-94a3-6058342db2dc path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentTeamFightRebateView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid5566ae84-ddd6-4563-94a3-6058342db2dc path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentTeamFightRebateView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid4db64ee7-c8cf-4592-afb0-fbab34a3b109 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\betDetailView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid4db64ee7-c8cf-4592-afb0-fbab34a3b109 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\betDetailView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuidd562cf0c-41bf-4493-813f-36c2b3e91293 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\irDetailView.prefab isI18nCmpt:false
+***** idx:8 prefab: uuidd562cf0c-41bf-4493-813f-36c2b3e91293 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\irDetailView.prefab isI18nCmpt:true
+***** idx:9 prefab: uuid6bd650d0-c1ad-41dc-be7d-939d0633726a path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\lossDetailView.prefab isI18nCmpt:false
+***** idx:10 prefab: uuid6bd650d0-c1ad-41dc-be7d-939d0633726a path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\lossDetailView.prefab isI18nCmpt:true
+***** idx:11 prefab: uuidd1f84df4-c1a5-4642-8e9c-98ec98307f61 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\rchDetailView.prefab isI18nCmpt:false
+***** idx:12 prefab: uuidd1f84df4-c1a5-4642-8e9c-98ec98307f61 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\rchDetailView.prefab isI18nCmpt:true
+***** idx:13 prefab: uuid68252b84-6c29-42a1-9bb2-a31f491d44ee path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\wdDetailView.prefab isI18nCmpt:false
+***** idx:14 prefab: uuid68252b84-6c29-42a1-9bb2-a31f491d44ee path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\wdDetailView.prefab isI18nCmpt:true
+
+png uuid:1da73155-7336-4653-a9db-27550643fa9a path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_xzrq.png dep count:1
+***** idx:1 prefab: uuid19e80490-a94e-4a23-8a97-5c8295181b56 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\chooseDateView.prefab isI18nCmpt:true
+
+png uuid:7bc84c54-05d0-4c6c-bd47-0b9e0b64694f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo_zjxs.png dep count:2
+***** idx:1 prefab: uuid6e8b2902-0873-4372-aa68-9c38ac03e9b7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentMyReweardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid6e8b2902-0873-4372-aa68-9c38ac03e9b7 path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentMyReweardView.prefab isI18nCmpt:true
+
+png uuid:20b37ddc-9974-4416-aef0-07583c0c6b64 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\logo-xyzp.png dep count:2
+***** idx:1 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:true
+
+png uuid:375642bc-ed0c-455c-88e1-de2a6838c47c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\meijilu.png dep count:0
+
+png uuid:bae37842-655f-4c86-b89c-bbea1d2526f5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\meilifanli.png dep count:2
+***** idx:1 prefab: uuidfb272127-10eb-469d-a081-a633cb18a822 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityRebateView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidfb272127-10eb-469d-a081-a633cb18a822 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityRebateView.prefab isI18nCmpt:true
+
+png uuid:d657528b-b0d7-48ef-b7f7-b87094825b46 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\meiriqiandao.png dep count:2
+***** idx:1 prefab: uuidad5699e4-d3b1-4855-9bd4-3fc5092d8844 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\signInView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidad5699e4-d3b1-4855-9bd4-3fc5092d8844 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\signInView.prefab isI18nCmpt:true
+
+png uuid:3120aca6-6bf0-4260-bc3c-44b5fc892c08 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\meiyoujain.png dep count:0
+
+png uuid:d62c7af2-d4d1-42c5-b5b1-d962c3e12f7c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\mingrilingqu.png dep count:0
+
+png uuid:1de89482-6d05-4bbb-bcfa-3a4d8dda519e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\Modifyaddress.png dep count:2
+***** idx:1 prefab: uuid0706c0f2-0e4d-474e-b521-bb633f2c1e2a path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoAddressView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid0706c0f2-0e4d-474e-b521-bb633f2c1e2a path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoAddressView.prefab isI18nCmpt:true
+
+png uuid:38030be7-9615-410d-bd4d-0239ba401c55 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\p_shezhi.png dep count:2
+***** idx:1 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:true
+
+png uuid:de3b22fa-3e24-4996-b8e3-6628a011f799 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\paymethod.png dep count:3
+***** idx:1 prefab: uuid54ebbc8a-c505-47b8-ac4e-ec88d6f6c3d7 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid54ebbc8a-c505-47b8-ac4e-ec88d6f6c3d7 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuide459f130-1e2c-4981-8a96-f7136a9c927f path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayViewV.prefab isI18nCmpt:true
+
+png uuid:40381904-1565-45c8-9169-7c40209cff50 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\pddGuize.png dep count:0
+
+png uuid:c152be30-b786-4446-b362-62aab843f178 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\apk_bg_03_icon.png dep count:1
+***** idx:1 prefab: uuid54fc43d5-88fe-4a47-b99d-e5192b42f8cd path:D:\work\client-game\assets\project\resources\prefab\lobby\addHome\addHomeView.prefab isI18nCmpt:true
+
+png uuid:1fcac4ff-1cd0-4732-bbbd-dd00684260db path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\apk_bg_icon.png dep count:1
+***** idx:1 prefab: uuid54fc43d5-88fe-4a47-b99d-e5192b42f8cd path:D:\work\client-game\assets\project\resources\prefab\lobby\addHome\addHomeView.prefab isI18nCmpt:true
+
+png uuid:fa074b8d-9d8a-4025-80f2-35860d937788 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\apk_bg_wangzhi.png dep count:1
+***** idx:1 prefab: uuid54fc43d5-88fe-4a47-b99d-e5192b42f8cd path:D:\work\client-game\assets\project\resources\prefab\lobby\addHome\addHomeView.prefab isI18nCmpt:true
+
+png uuid:8b735315-a3b6-4e3e-9c32-580455d545cd path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\bg-xc2.png dep count:2
+***** idx:1 prefab: uuid9492906e-8c71-4cc0-b450-71e8c11e5316 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\tipView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuid94830f8f-e01c-441c-9611-7f0386eb36b1 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\tipViewV.prefab isI18nCmpt:true
+
+png uuid:ffeee507-98c6-4ec5-9157-34bb15f1ced6 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\dljl_nl.png dep count:1
+***** idx:1 prefab: uuid729f98d3-1210-4cc2-9ea1-af80b384fd32 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityAgentView.prefab isI18nCmpt:true
+
+png uuid:8b1eef30-1a7e-43e1-9f2e-e1e0a8f2d06a path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\meiyoujian.png dep count:17
+***** idx:1 prefab: uuid0bdb3de4-77a5-49a6-a1b1-1818fe90ed5c path:D:\work\client-game\assets\project\resources\prefab\lobby\agent\agentDirectlyPlayerView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuidc4fb21b5-5fa2-4898-b1f7-6a922683632c path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid59f7b101-e004-418a-ba85-b421a810aaec path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelRewardView.prefab isI18nCmpt:true
+***** idx:4 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:true
+***** idx:6 prefab: uuidec417a09-a57f-4660-9af5-4e569b514f5f path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRecodeView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuid81df2ed1-275e-4d1c-b95d-e026c4f14682 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordView.prefab isI18nCmpt:true
+***** idx:8 prefab: uuid97af837e-fa3d-4291-b53b-dc2e676723c0 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopRecordViewV.prefab isI18nCmpt:true
+***** idx:9 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:10 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:11 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:12 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+***** idx:13 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+***** idx:14 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+***** idx:15 prefab: uuid8256e6a6-96c9-4b66-b907-ab7b210be5c2 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawProgressView.prefab isI18nCmpt:true
+***** idx:16 prefab: uuid7f31c40e-7d11-4465-9c99-6e2669b4ba15 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawRecordView.prefab isI18nCmpt:true
+***** idx:17 prefab: uuid04c68d4b-375a-4d8b-86c0-c5acb1e2343b path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireRecordsView.prefab isI18nCmpt:true
+
+png uuid:d0703eff-432b-4535-b973-bd50c9e19f07 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\peisong_girl.png dep count:1
+***** idx:1 prefab: uuidee64db79-1907-4972-8eeb-b75ddc4c7097 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\designatedDeliveryView.prefab isI18nCmpt:true
+
+png uuid:efda565c-dd1f-4027-8dae-803401992e30 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\scth_nl.png dep count:2
+***** idx:1 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:true
+
+png uuid:88a7ef8c-d3a7-4f20-8138-1bd4036e5121 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\vip_chongzhi_bg.png dep count:1
+***** idx:1 prefab: uuid94bbe9f6-a14f-4b35-9926-0ed0e43a5aa8 path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\notVipTip.prefab isI18nCmpt:true
+
+png uuid:84f963e7-4c72-466b-98e8-31fdf4b400e7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\yxgw_mishu.png dep count:4
+***** idx:1 prefab: uuidb0046708-1918-4981-ab7c-dbdf1172ca4b path:D:\work\client-game\assets\project\resources\prefab\lobby\accountProtect\accountProtectView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid63d2e5e0-6415-4761-9c51-08e13846f03c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\registerRewardView.prefab isI18nCmpt:true
+***** idx:4 prefab: uuid7a8aefa4-b569-449e-8d8f-6e1cfff22b43 path:D:\work\client-game\assets\project\resources\prefab\lobby\lobby\noGameTipView.prefab isI18nCmpt:true
+
+png uuid:87658c2d-a0f7-40d7-960b-7257c09adad5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\zjxs4.png dep count:1
+***** idx:1 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+
+png uuid:2fb5cc5c-f8ff-4b57-880a-90c3f878130b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\phl\zkyk_js.png dep count:0
+
+png uuid:634373fb-1429-4552-a72e-44afa5b0e3f1 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\pinduoduo.png dep count:1
+***** idx:1 prefab: uuid3379db0b-d16b-482b-9caa-1630113d707d path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddView.prefab isI18nCmpt:true
+
+png uuid:2568b590-c750-4017-81f9-6754e4f2b1f9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\putong.png dep count:1
+***** idx:1 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:true
+
+png uuid:afaee409-388b-4c02-b6d3-f751c502dad0 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\qd_bt.png dep count:4
+***** idx:1 prefab: uuid79ef684f-5e8a-4aae-a205-a6a6d94d4fae path:D:\work\client-game\assets\project\resources\prefab\lobby\calendarSignIn\calendarSignInView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid79ef684f-5e8a-4aae-a205-a6a6d94d4fae path:D:\work\client-game\assets\project\resources\prefab\lobby\calendarSignIn\calendarSignInView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid8ce8ecb0-0753-4aa6-ae2d-06b146ed61ca path:D:\work\client-game\assets\project\resources\prefab\lobby\calendarSignIn\calendarSignInViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid8ce8ecb0-0753-4aa6-ae2d-06b146ed61ca path:D:\work\client-game\assets\project\resources\prefab\lobby\calendarSignIn\calendarSignInViewV.prefab isI18nCmpt:true
+
+png uuid:cb065881-791c-40e5-8657-ec63ca1910bc path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\qiehuanyuyan1.png dep count:6
+***** idx:1 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid382e8ea9-929c-4d3a-986a-b5f291ea905b path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerInfoView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid7fddea98-fab1-48fc-9cd2-ed13d68deaa0 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid7fddea98-fab1-48fc-9cd2-ed13d68deaa0 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuidaec0c73b-59a5-4f18-b162-5093243a0842 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingViewV.prefab isI18nCmpt:false
+***** idx:6 prefab: uuidaec0c73b-59a5-4f18-b162-5093243a0842 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingViewV.prefab isI18nCmpt:true
+
+png uuid:11b3c8b8-6379-4b7e-969a-887aa1106d9e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\qiehuanyuyan2.png dep count:0
+
+png uuid:1287a25b-f0c0-4c64-9355-adea3dcf26f1 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\sale.png dep count:0
+
+png uuid:456b7452-99b6-4415-bd22-2dc850cc3104 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\sc_anqrz.png dep count:4
+***** idx:1 prefab: uuidf3ea1c2c-fcc5-4ed6-9629-32cf57abb3e6 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidf3ea1c2c-fcc5-4ed6-9629-32cf57abb3e6 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayInfoView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid983055e9-05d8-4af1-b180-407b65da0946 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayInfoViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid983055e9-05d8-4af1-b180-407b65da0946 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayInfoViewV.prefab isI18nCmpt:true
+
+png uuid:f64af36f-46cd-4e85-95b9-b4d0d77c1495 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\sc_chongzhi.png dep count:3
+***** idx:1 prefab: uuid5fb52753-ef85-4683-88ce-5a2bcfd624fd path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopView2.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid5fb52753-ef85-4683-88ce-5a2bcfd624fd path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopView2.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidaaeb3698-1e7e-4e12-a0f4-ec92ba194c98 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopView2V.prefab isI18nCmpt:false
+
+png uuid:169baef4-8486-4cd1-87f5-a12340e32fd7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\sc_czjl.png dep count:0
+
+png uuid:b9232b17-7da0-4507-8b15-cfe17232b4f6 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\scjl_btiaoti.png dep count:2
+***** idx:1 prefab: uuidd743cbd0-a899-46b0-9fa6-54037e7f0576 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\firstRechargeDailyRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidd743cbd0-a899-46b0-9fa6-54037e7f0576 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\firstRechargeDailyRewardView.prefab isI18nCmpt:true
+
+png uuid:88024313-c630-4f9b-a7cb-fbb05458ccf7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\scth_bt.png dep count:4
+***** idx:1 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuida380f94c-933e-4541-9bae-8f3bef999943 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardViewV.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:true
+***** idx:4 prefab: uuidd3c58bca-5ea0-47f5-8a76-b26220d8b19c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeViewV.prefab isI18nCmpt:true
+
+png uuid:8b719809-4385-4fcf-8f11-5e3d6fb0afb8 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\scth_tx.png dep count:8
+***** idx:1 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuida380f94c-933e-4541-9bae-8f3bef999943 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuida380f94c-933e-4541-9bae-8f3bef999943 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardViewV.prefab isI18nCmpt:true
+***** idx:5 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuidd3c58bca-5ea0-47f5-8a76-b26220d8b19c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeViewV.prefab isI18nCmpt:false
+***** idx:8 prefab: uuidd3c58bca-5ea0-47f5-8a76-b26220d8b19c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeViewV.prefab isI18nCmpt:true
+
+png uuid:cd2b8c3b-abf0-4f45-8d3a-862a5769627e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\shengji.png dep count:2
+***** idx:1 prefab: uuidfb272127-10eb-469d-a081-a633cb18a822 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityRebateView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidfb272127-10eb-469d-a081-a633cb18a822 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityRebateView.prefab isI18nCmpt:true
+
+png uuid:7c303227-13ea-4ac4-9485-3072ffbb8287 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\shengjivip.png dep count:0
+
+png uuid:9a60bd76-59bf-4f10-b23c-22bae99589cc path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\shezhi.png dep count:8
+***** idx:1 prefab: uuidc29d1641-3875-4a9c-bb81-33b324b68316 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\gameSettingView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc29d1641-3875-4a9c-bb81-33b324b68316 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\gameSettingView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidaf1c7a2c-56a4-4cf8-9cd3-8274a8494b6b path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\gameSettingViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuidaf1c7a2c-56a4-4cf8-9cd3-8274a8494b6b path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\gameSettingViewV.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid7fddea98-fab1-48fc-9cd2-ed13d68deaa0 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid7fddea98-fab1-48fc-9cd2-ed13d68deaa0 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingView.prefab isI18nCmpt:true
+***** idx:7 prefab: uuidaec0c73b-59a5-4f18-b162-5093243a0842 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingViewV.prefab isI18nCmpt:false
+***** idx:8 prefab: uuidaec0c73b-59a5-4f18-b162-5093243a0842 path:D:\work\client-game\assets\project\resources\prefab\lobby\setting\settingViewV.prefab isI18nCmpt:true
+
+png uuid:58dc16e7-e3fc-4cc9-b05a-56126b5e9b84 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\spin1.png dep count:0
+
+png uuid:5137fdcf-d227-4c81-9fed-d6bf36be1ca8 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\spin2.png dep count:0
+
+png uuid:79aa9e02-ee07-49d8-9f28-bd08355eb3ea path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\st_biaoti.png dep count:2
+***** idx:1 prefab: uuidc0bfc5d4-a934-428c-a398-8048bd72ead1 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\firstWithdrawDailyRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc0bfc5d4-a934-428c-a398-8048bd72ead1 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\firstWithdrawDailyRewardView.prefab isI18nCmpt:true
+
+png uuid:0ce50a51-bf5e-45ca-a85a-6f330629d3a5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\thanks-pdd.png dep count:0
+
+png uuid:2016c6d8-9af4-47c5-a6f6-39c8bff6f1a3 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\tishi.png dep count:0
+
+png uuid:d6ac7311-0073-4445-9a1c-0ba2e876308c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\tixian.png dep count:2
+***** idx:1 prefab: uuidf6a242b3-15df-42b2-9940-99d005dcaa4d path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawView2.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidf6a242b3-15df-42b2-9940-99d005dcaa4d path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawView2.prefab isI18nCmpt:true
+
+png uuid:6e4bc8c6-9a0f-4741-8e49-300cea9fdeb0 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\tixianjilu.png dep count:3
+***** idx:1 prefab: uuid8256e6a6-96c9-4b66-b907-ab7b210be5c2 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawProgressView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7f31c40e-7d11-4465-9c99-6e2669b4ba15 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawRecordView.prefab isI18nCmpt:false
+***** idx:3 prefab: uuid7f31c40e-7d11-4465-9c99-6e2669b4ba15 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawRecordView.prefab isI18nCmpt:true
+
+png uuid:15ba9a91-8482-4b48-aa87-87704cf0d950 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\tixianjindu.png dep count:1
+***** idx:1 prefab: uuid8256e6a6-96c9-4b66-b907-ab7b210be5c2 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawProgressView.prefab isI18nCmpt:true
+
+png uuid:8e560d70-5cca-44dd-9006-9b703798d1ee path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\tixianshenqing.png dep count:2
+***** idx:1 prefab: uuid4608413a-806b-4f5b-ab5d-f10fd1fb60ca path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawApply.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4608413a-806b-4f5b-ab5d-f10fd1fb60ca path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawApply.prefab isI18nCmpt:true
+
+png uuid:6fc33e81-f061-4546-9c95-7b878d472bc6 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\txqudao.png dep count:0
+
+png uuid:e4b9fcf6-88e0-42d8-86dc-ea7a1447ce58 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_bt.png dep count:0
+
+png uuid:9afa3740-a34b-4c4a-8ed2-b4c4fcdb7991 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_djlb.png dep count:0
+
+png uuid:369ed879-d2af-466d-8d67-f6b22199ed6f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_mrfl.png dep count:0
+
+png uuid:21e542f6-6928-4a5e-ad84-b3737dde97e1 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_myfl.png dep count:0
+
+png uuid:ca3af321-6086-49fd-ade2-7ba9dec91c0b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_mzfl.png dep count:0
+
+png uuid:b4d21a99-4b52-4ea3-a819-d1d9b86c742f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_ts.png dep count:2
+***** idx:1 prefab: uuid94bbe9f6-a14f-4b35-9926-0ed0e43a5aa8 path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\notVipTip.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid94bbe9f6-a14f-4b35-9926-0ed0e43a5aa8 path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\notVipTip.prefab isI18nCmpt:true
+
+png uuid:b9582bea-b32c-4d4b-a699-fb778f9285bd path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip_dyy_wddj.png dep count:2
+***** idx:1 prefab: uuida9c017b9-96fa-470a-921f-7d8db3ade2bd path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\vipView2.prefab isI18nCmpt:false
+***** idx:2 prefab: uuida9c017b9-96fa-470a-921f-7d8db3ade2bd path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\vipView2.prefab isI18nCmpt:true
+
+png uuid:ac15e7d6-6ca6-40df-9f87-5b549f55f0ef path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip-mrlb.png dep count:0
+
+png uuid:e64e253f-6def-4712-8ff2-56b2247d5196 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip-mylb.png dep count:0
+
+png uuid:d76cfbb5-78a2-4b07-877a-811300b271a9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip-mzlb.png dep count:0
+
+png uuid:cb64f01e-d629-4b23-a3ff-3ed8853ef9df path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_bjls.png dep count:2
+***** idx:1 prefab: uuida9c017b9-96fa-470a-921f-7d8db3ade2bd path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\vipView2.prefab isI18nCmpt:false
+***** idx:2 prefab: uuida9c017b9-96fa-470a-921f-7d8db3ade2bd path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\vipView2.prefab isI18nCmpt:true
+
+png uuid:b183b456-4ce9-4fb9-87df-336783e381d7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_bt.png dep count:2
+***** idx:1 prefab: uuida9c017b9-96fa-470a-921f-7d8db3ade2bd path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\vipView2.prefab isI18nCmpt:false
+***** idx:2 prefab: uuida9c017b9-96fa-470a-921f-7d8db3ade2bd path:D:\work\client-game\assets\project\resources\prefab\lobby\vip2\vipView2.prefab isI18nCmpt:true
+
+png uuid:aaefaf40-6251-402d-bccc-af32f64fa0a9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_dyy_mrjl.png dep count:0
+
+png uuid:7f118f64-2790-4375-a03a-e42ed84058b2 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_dyy_mzfl.png dep count:0
+
+png uuid:90a07733-149e-46c9-adc6-ae1344c64a45 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\vip2_lqjl.png dep count:4
+***** idx:1 prefab: uuid138cec7f-3ee0-43a6-8f51-c5c4a764e0ad path:D:\work\client-game\assets\project\resources\prefab\common\giftReceiveView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid138cec7f-3ee0-43a6-8f51-c5c4a764e0ad path:D:\work\client-game\assets\project\resources\prefab\common\giftReceiveView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuide1995b5f-fac0-4ffa-8396-076388b43f88 path:D:\work\client-game\assets\project\resources\prefab\common\giftReceiveViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuide1995b5f-fac0-4ffa-8396-076388b43f88 path:D:\work\client-game\assets\project\resources\prefab\common\giftReceiveViewV.prefab isI18nCmpt:true
+
+png uuid:7f52274d-86ef-4b9f-8e73-ed47db4bfb85 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\wodezhongjiang.png dep count:6
+***** idx:1 prefab: uuid59f7b101-e004-418a-ba85-b421a810aaec path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid59f7b101-e004-418a-ba85-b421a810aaec path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidec417a09-a57f-4660-9af5-4e569b514f5f path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRecodeView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuidec417a09-a57f-4660-9af5-4e569b514f5f path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchRecodeView.prefab isI18nCmpt:true
+***** idx:5 prefab: uuid04c68d4b-375a-4d8b-86c0-c5acb1e2343b path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireRecordsView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuid04c68d4b-375a-4d8b-86c0-c5acb1e2343b path:D:\work\client-game\assets\project\resources\prefab\lobby\zillionaire\zillionaireRecordsView.prefab isI18nCmpt:true
+
+png uuid:842fd9ce-6614-4d0c-a2a8-33bb21bd13ba path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\wuyaoqingjilu.png dep count:0
+
+png uuid:005b8909-4e56-4d4f-9ee2-9a3a9548e77e path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\wz_jyj.png dep count:2
+***** idx:1 prefab: uuid2ffa8ee7-1f2b-4332-8c7f-4496a99a5d21 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityReliefView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid2ffa8ee7-1f2b-4332-8c7f-4496a99a5d21 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityReliefView.prefab isI18nCmpt:true
+
+png uuid:c9448d67-3962-4b93-adad-f598e17eb615 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\wz_vip.png dep count:0
+
+png uuid:806ea40b-15e2-4f2e-9c0a-9c985c689c3b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xc_guanggao.png dep count:1
+***** idx:1 prefab: uuid0e138e8f-b1b4-4049-b36c-76a9476f4635 path:D:\work\client-game\assets\project\resources\prefab\lobby\activity\activityLuckyWheelView.prefab isI18nCmpt:true
+
+png uuid:ac37fbff-2489-46c3-93c1-707062f5588f path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xiangqing.png dep count:6
+***** idx:1 prefab: uuid567094a7-cc08-420b-a3d4-a374975f438f path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopDetailsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid567094a7-cc08-420b-a3d4-a374975f438f path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopDetailsView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid74716225-7d01-4b95-902d-d0ed2a7e24e5 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopDetailsViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid74716225-7d01-4b95-902d-d0ed2a7e24e5 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopDetailsViewV.prefab isI18nCmpt:true
+***** idx:5 prefab: uuidf4594a7d-3e49-490c-97e9-1210d4d1f368 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawDetailsView.prefab isI18nCmpt:false
+***** idx:6 prefab: uuidf4594a7d-3e49-490c-97e9-1210d4d1f368 path:D:\work\client-game\assets\project\resources\prefab\lobby\withdraw\withdrawDetailsView.prefab isI18nCmpt:true
+
+png uuid:b5bd01fa-b8d0-417f-979e-389b19e009dd path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xiehuigu.png dep count:2
+***** idx:1 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+
+png uuid:6f0baf53-d998-4896-b88b-eee1da3a491b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xiugaimima.png dep count:2
+***** idx:1 prefab: uuide9d4266b-47fb-4bca-bcf8-0a90b91613f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerPasswdView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuide9d4266b-47fb-4bca-bcf8-0a90b91613f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerPasswdView.prefab isI18nCmpt:true
+
+png uuid:a945cb04-2346-47b0-9b29-d37bc7e462a2 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xiugaimingcheng.png dep count:2
+***** idx:1 prefab: uuid4942bd10-f239-47d0-a03d-5b6d67f463e2 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerNameView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4942bd10-f239-47d0-a03d-5b6d67f463e2 path:D:\work\client-game\assets\project\resources\prefab\lobby\playerInfo\playerNameView.prefab isI18nCmpt:true
+
+png uuid:e4390622-5201-4e1a-a162-2eacf913be10 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xuanzeriqi.png dep count:4
+***** idx:1 prefab: uuid1ce0d123-6683-4775-a318-2647aa8ce8ca path:D:\work\client-game\assets\project\resources\prefab\lobby\comselecttime\comSelectTimeView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid1ce0d123-6683-4775-a318-2647aa8ce8ca path:D:\work\client-game\assets\project\resources\prefab\lobby\comselecttime\comSelectTimeView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid768a9f3f-a31a-4cfb-9506-eda587a047f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\comselecttime\comSelectTimeView2.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid768a9f3f-a31a-4cfb-9506-eda587a047f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\comselecttime\comSelectTimeView2.prefab isI18nCmpt:true
+
+png uuid:f9431623-0840-402c-9a5a-cac1f289f4f5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\xzjl_bt.png dep count:1
+***** idx:1 prefab: uuid11a516cc-587a-4480-8c3d-1adf4403e82e path:D:\work\client-game\assets\project\resources\prefab\lobby\downloadReward\downloadRewardView.prefab isI18nCmpt:true
+
+png uuid:eb3731fc-aefa-4691-9f01-8e20835ce732 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yaoqing.png dep count:2
+***** idx:1 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:true
+
+png uuid:2946a78c-c697-4d33-816a-646d75c41e6d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yj_yiguoqi.png dep count:3
+***** idx:1 prefab: uuid686b1c7e-6110-4063-8b91-a361185c6d95 path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailInfoView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid686b1c7e-6110-4063-8b91-a361185c6d95 path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailInfoView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid686b1c7e-6110-4063-8b91-a361185c6d95 path:D:\work\client-game\assets\project\resources\prefab\lobby\email\emailInfoView.prefab isI18nCmpt:true
+
+png uuid:bd8c565d-5381-45f6-bf7d-6b27b8dc43e7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\youjian.png dep count:4
+***** idx:1 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid4e22d00d-7d6e-4dd8-b6bf-fa9a9befa786 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid54397561-d54f-431c-bb02-f3c4bc74b5f4 path:D:\work\client-game\assets\project\resources\prefab\lobby\welfarecenter\welfareCenterViewV.prefab isI18nCmpt:true
+
+png uuid:f6898a3c-6d2c-4833-803a-0c11ee5a38e5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yqhy1.png dep count:2
+***** idx:1 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:true
+
+png uuid:636ceae5-f7df-4e91-b179-0fba1687e757 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yqhy2.png dep count:2
+***** idx:1 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:true
+
+png uuid:82eb2cd3-63fc-4796-960b-852d3f7897b5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yqhy3.png dep count:2
+***** idx:1 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid8a8fc5ba-2f74-493c-9cea-ec3d358cf200 path:D:\work\client-game\assets\project\resources\prefab\lobby\pdd\pddInviteView.prefab isI18nCmpt:true
+
+png uuid:07c5323e-d16c-4c97-b600-553f1ad0f286 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yueka_ac.png dep count:0
+
+png uuid:328b2e69-9cbd-4739-95b8-5161f981b4c4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yueka.png dep count:0
+
+png uuid:7f18f8c0-85b7-4acf-863c-4ce8d8a82966 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yueqiandao.png dep count:2
+***** idx:1 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid7443c0f1-96cf-4952-8cb2-e1b1bb1ea543 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\monthSignInView.prefab isI18nCmpt:true
+
+png uuid:163e4b06-264a-4bf6-ab78-e11e00a74b4c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yxgw_hyjr_bt.png dep count:4
+***** idx:1 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuid63d2e5e0-6415-4761-9c51-08e13846f03c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\registerRewardView.prefab isI18nCmpt:false
+***** idx:4 prefab: uuid63d2e5e0-6415-4761-9c51-08e13846f03c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\registerRewardView.prefab isI18nCmpt:true
+
+png uuid:a8cb4d1d-88f0-4d6c-9fc4-3ab1179a66f5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yxgw_hyjr_gjlb.png dep count:2
+***** idx:1 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:true
+
+png uuid:2521c53e-ef44-46c6-9ad6-ce69438a20f0 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yxgw_hyjr_jclb.png dep count:2
+***** idx:1 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:true
+
+png uuid:3b3a2ecb-958a-40e1-a9e9-0cd57eafefa4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yxgw_hyjr_or.png dep count:2
+***** idx:1 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid57008c08-fe16-42f7-8096-35cccdefd39e path:D:\work\client-game\assets\project\resources\prefab\lobby\firstgame\firstGameRewardView.prefab isI18nCmpt:true
+
+png uuid:2d45adb3-59ae-424a-bac4-9816acd44d70 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\yyy.png dep count:2
+***** idx:1 prefab: uuidf5e441c6-0fe3-48da-a9b4-4c33525cc47d path:D:\work\client-game\assets\project\resources\prefab\lobby\vipLottery\vipLotteryView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidf5e441c6-0fe3-48da-a9b4-4c33525cc47d path:D:\work\client-game\assets\project\resources\prefab\lobby\vipLottery\vipLotteryView.prefab isI18nCmpt:true
+
+png uuid:1ed52956-0c69-415a-a6d6-1cbe81223df1 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zaiyici-ty.png dep count:0
+
+png uuid:b749faeb-f2e3-4f8a-b1e8-5925b135161b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zaiyici.png dep count:2
+***** idx:1 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuid68fb419d-08b5-465e-af9e-66d9e020613b path:D:\work\client-game\assets\project\resources\prefab\common\rewardTipsView.prefab isI18nCmpt:true
+
+png uuid:4cac1ee2-55db-423c-9659-969c44a65dd0 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zanwuhuojiangjilu.png dep count:0
+
+png uuid:dfdd5ff8-168c-45bd-8cae-5db6ea9cc2eb path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zhongjiang.png dep count:0
+
+png uuid:4fac2174-f1e0-4024-8dc8-9fa65a3c4be4 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zhongjijiangli.png dep count:2
+***** idx:1 prefab: uuidad5699e4-d3b1-4855-9bd4-3fc5092d8844 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\signInView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidad5699e4-d3b1-4855-9bd4-3fc5092d8844 path:D:\work\client-game\assets\project\resources\prefab\lobby\signIn\signInView.prefab isI18nCmpt:true
+
+png uuid:7efa4b8d-41b4-4e8c-ac5f-d2e9973d0ea3 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zhouka_ac.png dep count:0
+
+png uuid:cfe43ab4-5481-49ab-a082-31818b07470c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zhouka.png dep count:2
+***** idx:1 prefab: uuidb790e438-f2b1-4619-b1bc-f2fefe6d80e3 path:D:\work\client-game\assets\project\resources\prefab\lobby\passcard\weekCardView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidb790e438-f2b1-4619-b1bc-f2fefe6d80e3 path:D:\work\client-game\assets\project\resources\prefab\lobby\passcard\weekCardView.prefab isI18nCmpt:true
+
+png uuid:cee28eec-1c78-4a96-a7ca-475c3642e0a6 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zp_chongzhijine.png dep count:2
+***** idx:1 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:true
+
+png uuid:a56b60b5-40ee-41c3-82d6-b7dac83367c5 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zp_choujiang.png dep count:2
+***** idx:1 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:true
+
+png uuid:54c89c07-265a-44b9-8326-52f5b34bd679 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zp_huojiangjilu.png dep count:3
+***** idx:1 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidbaa14ac9-6dec-4489-b084-228383922653 path:D:\work\client-game\assets\project\resources\prefab\lobby\scratchcard\scratchcardView.prefab isI18nCmpt:true
+
+png uuid:cda12812-501e-4f29-9610-7aa1cddc7d5d path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zp_touzhujine.png dep count:2
+***** idx:1 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuidc39f6c2f-1b16-42da-9a0c-09b484643bd8 path:D:\work\client-game\assets\project\resources\prefab\lobby\luckywheel\luckyWheelView.prefab isI18nCmpt:true
+
+png uuid:0eb4c7ae-74cc-4f06-b413-53970f01d82b path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\main\zsjl_bt.png dep count:2
+***** idx:1 prefab: uuide7716530-2eee-486d-9a85-a9dd3486aa5a path:D:\work\client-game\assets\project\resources\prefab\common\goodsReceiveTipsView.prefab isI18nCmpt:false
+***** idx:2 prefab: uuide7716530-2eee-486d-9a85-a9dd3486aa5a path:D:\work\client-game\assets\project\resources\prefab\common\goodsReceiveTipsView.prefab isI18nCmpt:true
+
+png uuid:13dbaa2f-f913-44a6-a332-95ec9b401da7 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\other\paymethod.png dep count:3
+***** idx:1 prefab: uuid54ebbc8a-c505-47b8-ac4e-ec88d6f6c3d7 path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuide459f130-1e2c-4981-8a96-f7136a9c927f path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayViewV.prefab isI18nCmpt:false
+***** idx:3 prefab: uuide459f130-1e2c-4981-8a96-f7136a9c927f path:D:\work\client-game\assets\project\resources\prefab\lobby\shop\shopChangePayViewV.prefab isI18nCmpt:true
+
+png uuid:3e7511e8-5e0b-41cd-9719-b8fbe3e7b620 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\other\scth_bt.png dep count:4
+***** idx:1 prefab: uuid1815436c-fdc6-4e27-969b-9d9886ff89c6 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardView.prefab isI18nCmpt:true
+***** idx:2 prefab: uuida380f94c-933e-4541-9bae-8f3bef999943 path:D:\work\client-game\assets\project\resources\prefab\lobby\dailyreward\preferenceDailyRewardViewV.prefab isI18nCmpt:true
+***** idx:3 prefab: uuidc504d158-f23f-46fb-92d5-6f13db4f3f24 path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeView.prefab isI18nCmpt:true
+***** idx:4 prefab: uuidd3c58bca-5ea0-47f5-8a76-b26220d8b19c path:D:\work\client-game\assets\project\resources\prefab\lobby\firstRecharge\firstRechargeViewV.prefab isI18nCmpt:true
+
+png uuid:165a157b-5f42-4177-8096-d101cb62d31c path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\other\spin1.png dep count:0
+
+png uuid:2502b75d-0cf4-49de-928a-f8c2ab1b4ca9 path:D:\work\client-game\assets\project\i18n\i18n_en\lobby\other\spin2.png dep count:0
+

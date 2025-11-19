@@ -1,0 +1,12 @@
+{
+  "name": "test_1",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/test_1/search": {
+      "message": "test_1:search"
+    }
+  }
+}
