@@ -1,17 +1,38 @@
 namespace Editor {
     interface IIpc {
-        sendToMain(cmd: string);
-        sendToPanel(title: string, cmd: string)
+        sendToMain(cmd: string,...args);
+        sendToPanel(title: string, cmd: string, ...args)
     }
     const Ipc: IIpc;
     interface IPanel {
         open(name: string);
+        extend(data: any);
     }
     const Panel: IPanel;
-    interface IAssetdb {
-        queryAssets(pattern: string, assetTypes: string | Array<string>, cb: (err, results) => void);
+
+    interface AssetInfo {
+        uuid: string;
+        path: string;
+        url: string;
+        type: string;
+        isSubAsset: string;
     }
 
+    interface IAssetdb {
+        queryAssets(pattern: string, assetTypes: string | Array<string>, cb: (err, results) => void);
+        import(rawfiles: Array<string>, url: string, cb: (err, results) => void);
+        urlToUuid(url: string);
+        uuidToUrl(uuid: string);
+        assetInfo(url): AssetInfo;
+        assetInfoByUuid(uuid): AssetInfo
+        assetInfoByPath(fspath): AssetInfo;
+        /**子资源 */
+        subAssetInfos(url): Array<AssetInfo>
+        /**子资源 */
+        subAssetInfosByUuid(uuid): Array<AssetInfo>
+        /**子资源 */
+        subAssetInfosByPath(fspath): Array<AssetInfo>
+    }
     const assetdb: IAssetdb;
 
     /**日志打印 */
