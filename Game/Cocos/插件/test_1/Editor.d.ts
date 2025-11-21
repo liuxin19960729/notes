@@ -32,6 +32,8 @@ namespace Editor {
         subAssetInfosByUuid(uuid): Array<AssetInfo>
         /**子资源 */
         subAssetInfosByPath(fspath): Array<AssetInfo>
+        /**删除资源 */
+        delete(arr: Array<string>, cb: (err, results) => void);
     }
     const assetdb: IAssetdb;
 

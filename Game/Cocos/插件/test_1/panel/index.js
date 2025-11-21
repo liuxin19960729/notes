@@ -11,21 +11,25 @@ Editor.Panel.extend({
     <ui-input id="input" disabled ></ui-input>
     <ui-button id="open_dir">打开目录</ui-button>
     <hr />
-    <ui-button id="btn">搜索</ui-button>
+    <ui-button id="ana_btn">搜索</ui-button>
+    <hr />
+    <ui-button id="del_btn">删除</ui-button>
     <hr />
   `,
 
     $: {
-        btn: '#btn',
+        ana_btn: '#ana_btn',
         input: '#input',
-        open_dir: '#open_dir'
+        open_dir: '#open_dir',
+        del_btn: '#del_btn',
     },
 
     ready() {
         this._root_path = path.normalize(`${Editor.Project.path}/assets`);
         this.$input.value = path.normalize(`${this._root_path}/project/i18n/i18n_en/`);
-        this.$btn.addEventListener("confirm", this.confirmAnalyseFunc.bind(this));
+        this.$ana_btn.addEventListener("confirm", this.confirmAnalyseFunc.bind(this));
         this.$open_dir.addEventListener("confirm", this.confirmOpenDir.bind(this));
+        this.$del_btn.addEventListener("confirm", this.confirmDel.bind(this));
     },
 
     async confirmAnalyseFunc() {
@@ -46,6 +50,10 @@ Editor.Panel.extend({
         if (dir.indexOf(this._root_path) != 0) return Editor.log(`not project ${this._root_path} path index:${dir.indexOf(this._root_path)}`);
         this.$input.value = dir;
     },
+
+    confirmDel() {
+        Editor.Ipc.sendToMain("i18n-texture-dep:del");
+    }
 
 });
 
