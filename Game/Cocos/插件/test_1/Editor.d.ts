@@ -1,6 +1,6 @@
 namespace Editor {
     interface IIpc {
-        sendToMain(cmd: string,...args);
+        sendToMain(cmd: string, ...args);
         sendToPanel(title: string, cmd: string, ...args)
     }
     const Ipc: IIpc;
@@ -39,4 +39,16 @@ namespace Editor {
     function log(string);
     /**错误日志 */
     function error(string);
+
+    interface IDialog {
+        openFile(data: any);
+    }
+    const Dialog: IDialog;
+
+    interface IProject {
+        /**项目路径 */
+        path: string;
+    }
+
+    const Project: IProject;
 }

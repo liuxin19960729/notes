@@ -14,15 +14,10 @@ module.exports = {
     open() {
       Editor.Panel.open("i18n-texture-dep")
     },
-    async analyse(event, path) {
+    analyse(event, path) {
+      event.replay && event.replay();
       Editor.log(`analyse path:${path}`)
-      try {
-        const str = await startAnalyse(path)
-        event.reply && event.reply(null, `complete:${str}`);
-      } catch (error) {
-        Editor.error(error)
-        event.reply && event.reply(null, err?.messages);
-      }
+      startAnalyse(path).then(str => Editor.log(`complete:${str}`)).catch(Editor.error)
     }
   },
 };
@@ -72,44 +67,35 @@ async function startAnalyse(pattern) {
   return wpath;
 }
 
-function analysePrefab(value, map, pngInfoMap) {
-  return new Promise((resovle, reject) => {
-    try {
-      const path = value.path;
-      // assets\9004\model\dice2.fbx\dice2.prefab
-      if (path.includes(`assets\\9004\\model\\dice2.fbx\\dice2.prefab`)) return resovle(void 0);
-      const content = fs.readFileSync(path, 'utf8');
-      const obj = JSON.parse(content);
-      const uuids = Array.from(map.keys());
-      uuids.forEach(uuid => {
-        if (!content.includes(uuid)) return;
-        const arr = map.get(uuid);
-        arr.push({ ...value, isI18nCmpt: false });
-      })
+async function analysePrefab(value, map, pngInfoMap) {
+  const path = value.path;
+  // assets\9004\model\dice2.fbx\dice2.prefab
+  if (path.includes(`assets\\9004\\model\\dice2.fbx\\dice2.prefab`)) return;
+  const content = await readFile(path)
+  const obj = JSON.parse(content);
+  const uuids = Array.from(map.keys());
+  uuids.forEach(uuid => {
+    if (!content.includes(uuid)) return;
+    const arr = map.get(uuid);
+    arr.push({ ...value, isI18nCmpt: false });
+  })
 
-      const values = Array.from(pngInfoMap.values());
-      // 4fa115np0xP5Z/I4oYnf7zO 多语言图片组件
-      const i18nObjs = Object.values(obj).filter(sobj => sobj[`__type__`] == `4fa115np0xP5Z/I4oYnf7zO`);
-      i18nObjs.forEach(i18nObj => {
-        const url = i18nObj["url"];
-        if (!url) return;
+  const values = Array.from(pngInfoMap.values());
+  // 4fa115np0xP5Z/I4oYnf7zO 多语言图片组件
+  const i18nObjs = Object.values(obj).filter(sobj => sobj[`__type__`] == `4fa115np0xP5Z/I4oYnf7zO`);
+  i18nObjs.forEach(i18nObj => {
+    const url = i18nObj["url"];
+    if (!url) return;
 
-        const fArr = values.filter(value => {
-          const splitss = value.path.split("\\");
-          const filename = splitss[splitss.length - 1];
-          return filename === url;
-        })
-        fArr.forEach(({ uuid }) => {
-          const arr = map.get(uuid);
-          arr.push({ ...value, isI18nCmpt: true });
-        })
-      })
-      resovle(void 0)
-    } catch (error) {
-      reject(error)
-    } finally {
-
-    }
+    const fArr = values.filter(value => {
+      const splitss = value.path.split("\\");
+      const filename = splitss[splitss.length - 1];
+      return filename === url;
+    })
+    fArr.forEach(({ uuid }) => {
+      const arr = map.get(uuid);
+      arr.push({ ...value, isI18nCmpt: true });
+    })
   })
 }
 
@@ -120,4 +106,14 @@ function queryAssets(pattern, assetTypes) {
       resovle(results)
     })
   })
+}
+
+function readFile(path) {
+  return new Promise((resovle, reject) => {
+    fs.readFile(path, { "encoding": "utf-8" }, (err, data) => {
+      if (!!err) return reject(err);
+      resovle(data);
+    })
+  })
+
 }
