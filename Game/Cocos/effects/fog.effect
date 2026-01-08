@@ -1,0 +1,88 @@
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fs
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: none
+      properties:
+        fogColor: { value: [0.1, 0.1, 0.1, 1.0], editor: { type: color } }
+        center: { value: [0.5, 0.5], editor: { tooltip: "Fog Center (UV space 0-1)" } }
+        radius: { value: 0.2, editor: { tooltip: "Clear Radius (UV space)" } }
+        feather: { value: 0.1, editor: { tooltip: "Edge Softness" } }
+}%
+
+
+CCProgram vs %{
+  precision highp float;
+
+  #include <cc-global>
+  #include <cc-local>
+
+  in vec3 a_position;
+  in vec4 a_color;
+  in vec2 a_uv0;
+
+  out vec4 v_color;
+  out vec2 v_uv0;
+
+  void main () {
+    vec4 pos = vec4(a_position, 1);
+    pos = cc_matViewProj * pos;
+    v_uv0 = a_uv0;
+    v_color = a_color;
+    gl_Position = pos;
+  }
+}%
+
+
+CCProgram fs %{
+  precision highp float;
+
+  #include <cc-global>
+
+  in vec4 v_color;
+  in vec2 v_uv0;
+
+  uniform Constant {
+    vec4 fogColor;
+    vec2 center;
+    float radius;
+    float feather;
+  };
+
+  uniform sampler2D texture;
+
+  void main () {
+    // 计算当前像素 UV 到中心的距离
+    // 注意：如果 Sprite 不是正方形，UV 距离会拉伸，如果需要完美圆形，需要传入宽高比修正
+    float dist = distance(v_uv0, center);
+
+    // smoothstep 用于平滑过渡
+    // 如果 dist < radius，值为 0 (完全透明/无雾)
+    // 如果 dist > radius + feather，值为 1 (完全雾)
+    float fogFactor = smoothstep(radius, radius + feather, dist);
+
+    // 获取纹理原本的颜色 (如果是覆盖层，这里可能不需要纹理颜色，只需要 fogColor)
+    // 这里假设这个 Shader 挂在一个纯色或半透明的“迷雾层” Sprite 上
+    vec4 texColor = texture2D(texture, v_uv0);
+    
+    // 混合逻辑：
+    // 方案 A: 这是一个覆盖在游戏上方的黑色层。
+    // 中心透明 (alpha = 0)，边缘不透明 (alpha = 1)
+    // 此时我们主要控制 alpha
+    
+    vec4 finalColor = fogColor;
+    // 雾的透明度 = fogFactor * fogColor.a
+    // 这样中心区域 (fogFactor=0) alpha 为 0，露出下面的游戏内容
+    finalColor.a = fogFactor * fogColor.a;
+
+    // 叠加顶点颜色 (Node Opacity)
+    finalColor *= v_color;
+
+    gl_FragColor = finalColor;
+  }
+}%
