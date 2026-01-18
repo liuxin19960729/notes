@@ -2,6 +2,7 @@
 ## JVM
 [DOC](JVM/DOC/index.md)
 ## Java
+[DOC](./Java/index.md)
 ## C
 ## CPP
 ## Python
