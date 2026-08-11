@@ -9,4 +9,12 @@ const emitter = new EventEmitter();
 
 
 
+
+表示该函数期望参数数量
+Function:length
+    function func1() {} // 输出 0
+
+    function func2(a, b) {}    // 输出2
+
+
 ```

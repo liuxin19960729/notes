@@ -73,3 +73,35 @@ function Watcher(watchDir, processDir) {
 
 // // 开启监听
 // watcher.start();
+
+
+
+// 什么时候使用串行流程控制 某一个发生错误就停止完下执行
+
+// const nimble = require("./nimble")
+
+// // cb:(err,data)=>void  cb 执行下一步
+// nimble.series([
+//     function (cb) {
+//         setTimeout(function () {
+//             console.log("I execute first.")
+//             cb(undefined,1);
+//         }, 1000)
+//     },
+//     function (cb) {
+//         setTimeout(function () {
+//             console.log("I execute next.")
+//             cb(new Error("stop"));
+//         }, 500)
+//     },
+//     function (cb) {
+//         setTimeout(function () {
+//             console.log("I execute last.")
+//             cb(undefined,3);
+//         }, 100)
+//     },
+// ], function (err, datas) {
+//     console.log(err)
+//     console.log(datas)
+// })
+
