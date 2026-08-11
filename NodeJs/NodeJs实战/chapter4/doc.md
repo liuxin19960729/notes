@@ -10,4 +10,11 @@ res.statusCode = 302;
 ### 构建RESTful Web服务
 ```js
 
+字节长度
+Buffer.byteLength(body)
+
+note: Content-Length byte 长度
+res.setHeader("Content-Length", Buffer.byteLength(body))
+
+
 ```
