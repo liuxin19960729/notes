@@ -65,7 +65,27 @@ function msg_client_sync(playerId,msg){
 
 
 服务器开启一个定时器  收集所有玩家的操作 如果手机了全部玩家的操作 则广播协议
-    note:
+    note:为了配合搜集全部玩家操作 当前客户端没有操作 也要发送空操作协议
+
+
+
+// 搜集指令  没隔0.1 s 调用一次on_turn
+function on_turn(){
+    const next_turn =myTurn+1;// 下一轮
+    const next_ops=ops[next_turn];
+    const player_count =Object.keys(next_ops||{}).length;
+
+    if(player_count>=players.length){
+        myTurn=next_turn;
+        smsg=tomsg(next_ops);// 生成消息
+        broadcast(smgs);//广播消息
+    }
+}
+
+
+
+note:
+     上面代码on_turn 为严格帧同步。 如果客户端执行的很慢 则其他的客户端会等待它
 
 
 ```
