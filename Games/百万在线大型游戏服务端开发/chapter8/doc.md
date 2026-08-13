@@ -175,3 +175,121 @@ function msg_client_sync(playerid,msg){
 
 
 ```
+
+## AOI算法
+```
+
+为什么需要AOI算法？
+1.大场景游戏  地图上如果有50个玩家  每个玩家每秒钟更新位置5条
+   50*50*5=12500 每秒钟服务器同步的数据压力非常大 为了减少压力 使用AOI可以有效的解决问题
+
+
+角色扮演类游戏(MMORPG) FPS 等游戏  玩家只能与附近的敌人和商贩玩家发生交互战斗 其他地区的玩家根本看不到 所以如果一个玩家 or 什么状态发生变化只需要通知
+附近的玩家(附近玩区域 我们称之为感兴趣区域)
+
+
+
+
+实体模型
+1.将 角色和 NPC 怪物等 都抽象成实体类 Entity
+
+
+Entity{
+    id:string; 唯一标识
+    // 位置信息
+    pos:vec2;
+    moveto(dst:vec2);将实体移动新的位置
+
+    // 获取感兴趣位置附近的玩家
+    get_sight():Array<Entity>;
+
+    // 客户端方法  当一个enitity 进入到 A的感兴趣会触发  on_enter_sight 加载创建对应的UI等模型
+    on_enter_sight(id:string);
+    // 客户端方法  当一个enitity 离开 A的感兴趣会触发  on_leave_sight 卸载销毁对应的模型UI资源
+    on_leave_sight(id:string);
+}
+
+
+
+
+
+
+
+get_sight 实现
+    1.九宫格算法的实现
+        格子大小 客户端一屏能看到的视野大小
+
+    space.ceils:Array<Array<Array<string>>>  每个格子存储Entity id
+
+
+```
+![API 九宫](./images/aoi.png)
+
+```js
+更具上面图片
+
+玩家Role 位于 s(1,2) 格子 
+
+Role 只关心附近的9个格子里面的Entity
+
+
+
+
+通过角色移动需要位置  space.ceils里面对应的数据
+
+
+角色移动  on_enter  on_leave 进入离开 某个格子 通过格子同步给对应的Entity客户端事  on_enter_sight on_leave_sight
+
+
+
+
+function moveto(dst){
+    const ceils=space.ceils;
+    // 新坐标所在的格子
+    const n_pos=get_ceil_idx(dst);
+    // 旧坐标所在的格子
+    const o_pos=get_ceil_idx(self.pos);
+
+
+    // 必须保证格子与格子之间连续
+    if(Math.abx(n_pos.x-o_pos.x)>1 || Math.abx(n_pos.y-o_pos.y)>1 ){
+        return;
+    }
+
+    // 同步位置 移动
+
+    self.pos.x=dst.x;
+    self.pos.y=dst.y;
+
+
+
+    // 情况1 在原来的格子里面
+
+    if(n_pos.equal(o_pos)){ // 不做任何处理
+
+    }else if(n_pos.x==(o_pos.x+1)&& n_pos.y==o_pos.y){// 向右走
+
+        // 左边一列离开
+        on_leave(self.id,ceils[o_pos.x-1][o_pos.y-1])
+        on_leave(self.id,ceils[o_pos.x-1][o_pos.y])
+        on_leave(self.id,ceils[o_pos.x-1][o_pos.y+1])
+
+        // 将格子里面的id 删除
+        remove(self.id,ceils[o_pos.x][o_pos.y]);
+    
+        // 最右边一列的监听到进入
+        on_enter(self.id,ceils[o_pos.x+2][o_pos.y-1])
+        on_enter(self.id,ceils[o_pos.x+2][o_pos.y])
+        on_enter(self.id,ceils[o_pos.x+2][o_pos.y+1])
+
+        // 进入到新格子
+        add(self.id,ceils[n_pos.x][n_pos.y])
+    }
+    .......
+
+}
+
+
+AOI 不仅能减少数据发送还能减少碰撞检测
+
+```
