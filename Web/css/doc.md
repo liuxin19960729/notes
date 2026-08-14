@@ -6,6 +6,11 @@ marging + border + padding +content+ padding+ border+ margin
 ### box-sizing
 ![box-sing](./box_sizing.html)
 
+### color 
+```
+transparent 透明颜色
+
+```
 ### background-clip
 ```
 background 
