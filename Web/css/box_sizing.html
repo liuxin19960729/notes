@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="box1"></div>
+    <div id="box2"></div>
+</body>
+
+<style>
+    #box1 {
+        width: 100px;
+        height: 100px;
+        background: green;
+        /* 必须设置border-style 才能显示边框 */
+        border-style: dotted;
+        border-width: 20px;
+        border-color: orange;
+        /* 保证盒子宽高大小100px 压缩content_size 大小 */
+        box-sizing: border-box;
+
+        padding: 10px;
+
+    }
+
+    #box2 {
+        width: 100px;
+        height: 100px;
+        background: green;
+        /* 必须设置border-style 才能显示边框 */
+        border-style: dotted;
+        border-width: 20px;
+        border-color: orange;
+        /* content_size大小不变 整个盒子调整大小; */
+        box-sizing: content-box;
+        padding: 10px;
+
+        
+    }
+</style>
+
+</html>
