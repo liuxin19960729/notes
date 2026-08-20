@@ -1,5 +1,6 @@
 
-## std::remove_reference
+## #include<utility>
+### std::remove_reference
 ```cpp
 template<typename _Tp>
 constexpr typename std::remove_reference<_Tp>::type&& move(_Tp&& __t) noexcept {
@@ -41,7 +42,7 @@ typename ... ::type
 ```
 
 
-# std::forward
+### std::forward
 ```cpp
 
   template<typename _Tp>
@@ -65,6 +66,12 @@ typename ... ::type
 	  "std::forward must not be used to convert an rvalue to an lvalue");
       return static_cast<_Tp&&>(__t);
     }
+
+
+
+引用折叠
+_Tp&&&  ->  _Tp&
+_Tp&&&& -> _Tp&&
 
 
 
