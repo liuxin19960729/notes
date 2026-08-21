@@ -333,3 +333,73 @@ int main()
 
 ```
 
+### std::function
+```cpp
+
+
+#include <iostream>
+#include <memory>
+#include <algorithm>
+#include <functional>
+
+// 自由函数
+int add(int a, int b) { return a + b; }
+
+struct func_cls
+{
+    int fac;
+    func_cls(int f) : fac(f)
+    {
+    }
+
+    int operator()(int x1, int x2)
+    {
+        return fac * x1 * x2;
+    }
+};
+
+int main()
+{
+    std::function<int(int, int)> func = add;
+    std::cout << func(3, 3) << std::endl;
+
+    // lambda
+    func = [](int a, int b)
+    { return a * b; };
+
+    std::cout << func(3, 3) << std::endl;
+
+    func_cls fcls(100);
+
+    func = fcls;
+
+    std::cout << func(3, 3) << std::endl;
+
+    func = [&fcls](int a, int b)
+    { return fcls(a, b); };
+
+    std::cout << func(3, 3) << std::endl;
+}
+```
+
+### std::bind
+```cpp
+c++11 引入
+
+
+#include <iostream>
+#include <memory>
+#include <algorithm>
+#include <functional>
+
+int add(int a, int b) { return a + b; }
+int main()
+{
+    // std::placeholders::_1 std::bind 占位
+    auto add10 = std::bind(add, 10, std::placeholders::_1);
+    std::cout << add10(100) << std::endl;
+
+    auto always_20 = std::bind(add, 10, 10);
+    std::cout << always_20() << std::endl;
+}
+```
