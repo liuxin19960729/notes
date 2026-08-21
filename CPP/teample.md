@@ -267,3 +267,69 @@ char* pChar = reinterpret_cast<char*>(pInt);
 
 
 ```
+
+
+### _NonArray
+```cpp
+
+
+using _NonArray = __enable_if_t<!is_array<_Tp>::value, _Tp>;
+
+
+//  _Cond 为 true 是  _Tp
+using __enable_if_t = typename enable_if<_Cond, _Tp>::type;
+   
+
+    template<bool, typename _Tp = void>
+    struct enable_if
+    { };
+
+  // Partial specialization for true.
+  template<typename _Tp>
+    struct enable_if<true, _Tp>
+    { typedef _Tp type; };
+
+  // __enable_if_t (std::enable_if_t for C++11)
+  template<bool _Cond, typename _Tp = void>
+    using __enable_if_t = typename enable_if<_Cond, _Tp>::type;
+
+
+
+
+__enable_if_t<!is_array<_Tp>::value, _Tp>;
+  当 !is_array<_Tp>::value 为true 类型为 _Tp
+
+
+
+```
+
+### integral_constant<bool, true>
+```cpp
+
+!is_array<_Tp>::value
+
+
+template <typename T,T V>
+struct share_ptr
+{
+    // constexpr 编译器完成
+    static constexpr T value = V;
+    using value_type = T;
+    // 写了每个函数隐试转换函数
+    constexpr operator value_type() const noexcept { return value; }
+
+
+};
+
+int main()
+{
+    share_ptr<int, 100> v;
+
+    //  share_ptr 里面有隐试传递参数
+    int g = v;
+
+    std::cout << g << std::endl;
+}
+
+```
+
