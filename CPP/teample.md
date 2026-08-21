@@ -174,7 +174,7 @@ int main()
 
 ### 转换类型
 ```c++
-static_cast<目标类型>(待转换表达式)
+1.static_cast<目标类型>(待转换表达式)
 
 note: 
   static_cast 用于良性的转换 用于编译的时候可确认的转换
@@ -227,6 +227,42 @@ char * pChar=<char *>pVoid;
 char * pChar=static_case<char *>pVoid;
 
 
+
+
+
+// 运行的时候安全转型
+2.dynamic_cast
+  核心机制：依赖虚表（vtable）中的 RTTI（运行时类型信息）进行类型校验
+
+
+转换指针失败 → 返回 nullptr（可判断）
+转换引用失败 → 抛出 std::bad_cast 异常（无法返回空引用）
+
+
+
+3.const_cast（常量性移除/添加）
+
+int val = 10;
+const int& ref = val; 
+const_cast<int&>(ref) = 20; // 合法，因为 val 本身不是 const
+
+
+note: 
+如果 
+
+const int val = 10;
+const int& ref = val; 
+const_cast<int&>(ref) = 20; // 可能会导致程序崩溃
+
+
+
+3.reinterpret_cast   (底层位模式重解释)
+
+
+int num = 0x12345678;
+int* pInt = &num;
+// 将 int* 转为 char*，用于逐字节查看内存
+char* pChar = reinterpret_cast<char*>(pInt);
 
 
 
