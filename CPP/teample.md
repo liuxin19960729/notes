@@ -171,3 +171,63 @@ int main()
 }
 
 ```
+
+### 转换类型
+```c++
+static_cast<目标类型>(待转换表达式)
+
+note: 
+  static_cast 用于良性的转换 用于编译的时候可确认的转换
+
+1.
+int、double、char 等数值类型间的显式转换，常用于消除编译器的精度丢失警告。
+
+
+2.类层次结构中的向上转型（派生类 → 基类）
+
+class Base {};
+class Derived : public Base {};
+
+Derived d;
+Base* b = static_cast<Base*>(&d); // 安全
+
+
+
+
+3.类层次结构中的向下转型（基类 → 派生类）
+
+
+Base* b = new Derived(); // 基类指针指向派生类对象
+Derived* d = static_cast<Derived*>(b); // 安全，因为 b 确实指向 Derived
+
+
+4.将左值转换为右值引用
+
+std::string str = "hello";
+std::string&& rref = static_cast<std::string&&>(str); // 等价于 std::move(str)
+
+
+5.枚举值（enum）与整数之间的转换
+
+enum Color { Red, Green, Blue };
+int num = static_cast<int>(Green); // 1
+Color c = static_cast<Color>(2);   // Blue
+
+
+
+6.void* 转换为具体类型指针
+
+
+void* pVoid = malloc(100);
+// c语言
+
+char * pChar=<char *>pVoid;
+
+// cpp
+char * pChar=static_case<char *>pVoid;
+
+
+
+
+
+```
