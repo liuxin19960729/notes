@@ -51,6 +51,7 @@ int main()
     std::array<int, 20> arr{1, 2, 3, 4, 5, 6, 7};
     std::size_t size = arr.end() - arr.begin();
     std::cout << size << std::endl;
+    
 
     //Iterators
     for (auto rit = arr.rbegin(); rit < arr.rend(); rit++)
@@ -93,5 +94,21 @@ int main()
     int * _p= arr.data();
 
     _p[1]=200;
+
+
+    // 将数组里面的所有元素修改为300
+    arr.fill(300);
+
 }
+
+
+std::get 返回数组元素的引用
+
+
+
+
+标准库 实现了std::array 操作符号
+
+== != > < > >= <=
+\
 ```
